@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="og:title" content="Native Plant Cards — 36 Keystone Plants for Capital Region NY">
+<meta property="og:description" content="Interactive plant cards with growing conditions, wildlife value, planting guides, and detail photos. Scan the QR code to explore.">
+<meta property="og:image" content="https://ailula.top/Native-Plants-Card/assets/photos/columbine.jpg">
+<title>Native Plant Cards — Design Showcase</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Libre+Baskerville:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap');
+
+  :root {
+    --sage: #6b8f71;
+    --sage-dark: #3d5a40;
+    --cream: #f5f0e6;
+    --cream-light: #faf8f3;
+    --warm-gray: #8a8478;
+    --text: #2a2a2a;
+    --border: #e0dbd0;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #d6d1c8;
+    font-family: 'DM Sans', system-ui, sans-serif;
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ─── Hero ─── */
+  .hero {
+    text-align: center;
+    padding: 60px 24px 40px;
+  }
+  .hero-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: clamp(28px, 6vw, 48px);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: var(--sage-dark);
+    line-height: 1.1;
+  }
+  .hero-sub {
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic;
+    font-size: clamp(14px, 2.5vw, 18px);
+    color: var(--warm-gray);
+    margin-top: 12px;
+  }
+  .hero-count {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 6px 20px;
+    border-radius: 20px;
+    background: var(--sage);
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+
+  /* ─── Section ─── */
+  .section {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+  .section-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--sage);
+    margin-bottom: 16px;
+    text-align: center;
+  }
+  .section-desc {
+    text-align: center;
+    font-size: 15px;
+    color: #555;
+    line-height: 1.6;
+    max-width: 560px;
+    margin: 0 auto 32px;
+  }
+
+  /* ─── Card Fan ─── */
+  .card-fan {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 0;
+    padding: 20px 0 40px;
+    position: relative;
+    height: 380px;
+    overflow: hidden;
+  }
+  .fan-card {
+    width: 220px;
+    height: 320px;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+    flex-shrink: 0;
+    position: absolute;
+    transition: transform 0.4s ease;
+    background: #fff;
+  }
+  .fan-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .fan-card:nth-child(1) { transform: translate(-180px, 10px) rotate(-12deg); z-index: 1; }
+  .fan-card:nth-child(2) { transform: translate(-70px, 0px) rotate(-5deg); z-index: 2; }
+  .fan-card:nth-child(3) { transform: translate(0px, -5px) rotate(0deg); z-index: 3; }
+  .fan-card:nth-child(4) { transform: translate(70px, 0px) rotate(5deg); z-index: 2; }
+  .fan-card:nth-child(5) { transform: translate(180px, 10px) rotate(12deg); z-index: 1; }
+
+  /* ─── Design Features Grid ─── */
+  .features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
+    margin-bottom: 48px;
+  }
+  .feature-card {
+    background: var(--cream-light);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px 20px;
+    text-align: center;
+  }
+  .feature-icon {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  .feature-name {
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--sage-dark);
+    margin-bottom: 6px;
+  }
+  .feature-desc {
+    font-size: 13px;
+    color: #666;
+    line-height: 1.5;
+  }
+
+  /* ─── How It Works ─── */
+  .steps {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 48px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .step {
+    flex: 1;
+    min-width: 200px;
+    max-width: 260px;
+    text-align: center;
+  }
+  .step-num {
+    width: 40px; height: 40px;
+    border-radius: 50%;
+    background: var(--sage);
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 12px;
+  }
+  .step-title {
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 4px;
+    color: var(--text);
+  }
+  .step-desc {
+    font-size: 13px;
+    color: #666;
+    line-height: 1.5;
+  }
+
+  /* ─── CTA ─── */
+  .cta {
+    text-align: center;
+    padding: 40px 24px 60px;
+  }
+  .cta-btn {
+    display: inline-block;
+    padding: 14px 36px;
+    background: var(--sage);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 28px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    box-shadow: 0 4px 16px rgba(107,143,113,0.3);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .cta-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 24px rgba(107,143,113,0.4);
+  }
+  .cta-sub {
+    margin-top: 12px;
+    font-size: 13px;
+    color: var(--warm-gray);
+  }
+
+  /* ─── Footer ─── */
+  .footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 12px;
+    color: var(--warm-gray);
+    border-top: 1px solid var(--border);
+  }
+
+  /* ─── Responsive ─── */
+  @media (max-width: 600px) {
+    .card-fan { height: 260px; }
+    .fan-card { width: 150px; height: 220px; }
+    .fan-card:nth-child(1) { transform: translate(-120px, 8px) rotate(-12deg); }
+    .fan-card:nth-child(2) { transform: translate(-48px, 0px) rotate(-5deg); }
+    .fan-card:nth-child(3) { transform: translate(0px, -4px) rotate(0deg); }
+    .fan-card:nth-child(4) { transform: translate(48px, 0px) rotate(5deg); }
+    .fan-card:nth-child(5) { transform: translate(120px, 8px) rotate(12deg); }
+  }
+</style>
+</head>
+<body>
+
+<!-- Hero -->
+<div class="hero">
+  <h1 class="hero-title">Native Plant Cards</h1>
+  <p class="hero-sub">Know it. Grow it. Share it.</p>
+  <span class="hero-count">36 Keystone Plants &middot; Capital Region NY</span>
+</div>
+
+<!-- Card Fan -->
+<div class="card-fan">
+  <div class="fan-card"><img src="../../assets/photos/cardinal-flower.jpg" alt="Cardinal Flower"></div>
+  <div class="fan-card"><img src="../../assets/photos/wild-lupine.jpg" alt="Wild Lupine"></div>
+  <div class="fan-card"><img src="../../assets/photos/columbine.jpg" alt="Wild Red Columbine"></div>
+  <div class="fan-card"><img src="../../assets/photos/new-jersey-tea.jpg" alt="New Jersey Tea"></div>
+  <div class="fan-card"><img src="../../assets/photos/prairie-smoke.jpg" alt="Prairie Smoke"></div>
+</div>
+
+<!-- What's on Each Card -->
+<div class="section">
+  <h2 class="section-title">What's on Each Card</h2>
+  <p class="section-desc">
+    Every card is a self-contained plant guide &mdash; designed to give you exactly what you need at the nursery, in the garden, or on a walk.
+  </p>
+  <div class="features">
+    <div class="feature-card">
+      <div class="feature-icon">&#x1F33B;</div>
+      <div class="feature-name">At a Glance</div>
+      <div class="feature-desc">Light, water, soil, height, and bloom info &mdash; the essentials, instantly readable.</div>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">&#x1F98B;</div>
+      <div class="feature-name">Wildlife Value</div>
+      <div class="feature-desc">Which pollinators visit, which butterflies it hosts, and what birds it feeds.</div>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">&#x1F4F7;</div>
+      <div class="feature-name">Detail Photos</div>
+      <div class="feature-desc">Flowers, fruits, seeds, and leaves from iNaturalist research-grade observations.</div>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">&#x1F331;</div>
+      <div class="feature-name">Planting Guide</div>
+      <div class="feature-desc">Step-by-step instructions to get your new plant off to a great start.</div>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">&#x1F91D;</div>
+      <div class="feature-name">Companions</div>
+      <div class="feature-desc">Plants that grow well together &mdash; build a beautiful, resilient garden.</div>
+    </div>
+    <div class="feature-card">
+      <div class="feature-icon">&#x1F4A1;</div>
+      <div class="feature-name">Fun Facts</div>
+      <div class="feature-desc">The stories behind each plant &mdash; history, ecology, and surprises.</div>
+    </div>
+  </div>
+</div>
+
+<!-- How It Works -->
+<div class="section">
+  <h2 class="section-title">How It Works</h2>
+  <div class="steps">
+    <div class="step">
+      <div class="step-num">1</div>
+      <div class="step-title">Pick Up a Card</div>
+      <div class="step-desc">Find the plant cards at native plant sales and garden events.</div>
+    </div>
+    <div class="step">
+      <div class="step-num">2</div>
+      <div class="step-title">Scan the QR Code</div>
+      <div class="step-desc">Open your phone camera and scan &mdash; no app needed.</div>
+    </div>
+    <div class="step">
+      <div class="step-num">3</div>
+      <div class="step-title">Explore &amp; Save</div>
+      <div class="step-desc">Flip the card, read the guide, and save your favorites to "My Plants."</div>
+    </div>
+  </div>
+</div>
+
+<!-- CTA -->
+<div class="cta">
+  <a class="cta-btn" href="../../plants/index.html">Browse All 36 Plants</a>
+  <p class="cta-sub">No app required &mdash; works in any mobile browser</p>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  Made with &hearts; by Lu Li
+</div>
+
+</body>
+</html>
