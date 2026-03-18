@@ -315,11 +315,11 @@
       "No pruning needed; naturally forms a graceful, rounded crown"
     ],
     "detail_photos": [
-      "american-hop-hornbeam-1.jpg",
-      "american-hop-hornbeam-2.jpg",
-      "american-hop-hornbeam-3.jpg",
-      "american-hop-hornbeam-4.jpg",
-      "american-hop-hornbeam-5.jpg"
+      "american-hop-hornbeam-1.jpeg",
+      "american-hop-hornbeam-2.jpeg",
+      "american-hop-hornbeam-3.jpeg",
+      "american-hop-hornbeam-4.jpeg",
+      "american-hop-hornbeam-5.jpeg"
     ],
     "facts": [
       {
@@ -479,9 +479,9 @@
     "detail_photos": [
       "american-spikenard-1.jpg",
       "american-spikenard-2.jpeg",
-      "american-spikenard-3.jpeg",
-      "american-spikenard-4.jpeg",
-      "american-spikenard-5.jpeg"
+      "american-spikenard-3.jpg",
+      "american-spikenard-4.jpg",
+      "american-spikenard-5.jpg"
     ],
     "facts": [
       {
@@ -515,7 +515,6 @@
     ],
     "cautions": [],
     "notes": "A fragrant, easy-to-grow perennial with spikes of lavender flowers and anise-scented foliage that keeps pollinators buzzing all summer long.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -569,6 +568,13 @@
       "Plant in full sun in well-drained, average soil.",
       "Space 12–18 inches apart; sow seed or transplant in spring.",
       "Deadhead to extend bloom or leave seedheads for birds."
+    ],
+    "detail_photos": [
+      "anise-hyssop-1.jpeg",
+      "anise-hyssop-2.jpeg",
+      "anise-hyssop-3.jpeg",
+      "anise-hyssop-4.jpeg",
+      "anise-hyssop-5.jpeg"
     ]
   },
   {
@@ -645,12 +651,6 @@
       "appalachian-sedge-3.jpg",
       "appalachian-sedge-4.jpg",
       "appalachian-sedge-5.jpg"
-    ],
-    "facts": [
-      {
-        "title": "Appalachian Sedge",
-        "sub": "A perfect no-mow lawn alternative for shady spots — stays green and tidy at 6–12"
-      }
     ]
   },
   {
@@ -805,8 +805,7 @@
       "bear-oak-3.jpeg",
       "bear-oak-4.jpeg",
       "bear-oak-5.jpeg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "bebbs-oval-sedge",
@@ -831,7 +830,6 @@
     ],
     "cautions": [],
     "notes": "A clump-forming wetland sedge with fine-textured cascading foliage that excels in rain gardens, wet meadows, and along streams where it stabilizes soil.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "💧",
@@ -885,6 +883,13 @@
       "Plant plugs in spring in consistently moist, full-sun soil.",
       "Space 12 inches apart near ponds, streams, or rain gardens.",
       "Water regularly until established; tolerates seasonal flooding."
+    ],
+    "detail_photos": [
+      "bebbs-oval-sedge-1.jpeg",
+      "bebbs-oval-sedge-2.jpeg",
+      "bebbs-oval-sedge-3.jpeg",
+      "bebbs-oval-sedge-4.jpeg",
+      "bebbs-oval-sedge-5.jpeg"
     ]
   },
   {
@@ -910,7 +915,6 @@
     ],
     "cautions": [],
     "notes": "A tall, wand-like biennial with delicate white-to-pink evening flowers that sway gracefully in the breeze, providing critical late-season nectar for long-tongued bees and moths.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -964,6 +968,13 @@
       "Sow seed in fall on well-drained soil in full sun.",
       "Biennial: first-year rosette, second-year flowers at 4-6 ft.",
       "Allow plants to self-sow for a persistent colony."
+    ],
+    "detail_photos": [
+      "biennial-gaura-1.jpg",
+      "biennial-gaura-2.jpg",
+      "biennial-gaura-3.jpg",
+      "biennial-gaura-4.jpeg",
+      "biennial-gaura-5.jpeg"
     ]
   },
   {
@@ -1040,12 +1051,6 @@
       "big-bluestem-3.jpeg",
       "big-bluestem-4.jpeg",
       "big-bluestem-5.jpeg"
-    ],
-    "facts": [
-      {
-        "title": "Big Bluestem",
-        "sub": "The king of the tallgrass prairie — once covered millions of acres across North "
-      }
     ]
   },
   {
@@ -1071,7 +1076,6 @@
     ],
     "cautions": [],
     "notes": "A delicate woodland perennial with tiny snowflake-like fringed white flowers on slender stalks above a pair of opposite stem leaves.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -1125,6 +1129,13 @@
       "Plant in rich, moist, humus-heavy woodland soil in shade.",
       "Best transplanted as plugs in spring; space 8-12 inches apart.",
       "Excellent ground cover under deciduous trees with spring ephemerals."
+    ],
+    "detail_photos": [
+      "bishops-cap-1.jpeg",
+      "bishops-cap-2.jpeg",
+      "bishops-cap-3.jpg",
+      "bishops-cap-4.jpg",
+      "bishops-cap-5.jpeg"
     ]
   },
   {
@@ -1232,7 +1243,6 @@
     ],
     "cautions": [],
     "notes": "A compact, drought-tough native grass with distinctive comb-like seed heads that curl like tiny mosquito larvae, forming dense blue-gray tufts.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -1286,6 +1296,13 @@
       "Sow seed in spring on dry, well-drained soil in full sun.",
       "Space 8–12 inches apart; forms a fine-textured low turf.",
       "Extremely drought tolerant; do not overwater or fertilize."
+    ],
+    "detail_photos": [
+      "blue-grama-1.jpg",
+      "blue-grama-2.jpg",
+      "blue-grama-3.jpg",
+      "blue-grama-4.jpg",
+      "blue-grama-5.jpeg"
     ]
   },
   {
@@ -1448,8 +1465,7 @@
       "blue-vervain-3.jpeg",
       "blue-vervain-4.jpg",
       "blue-vervain-5.jpg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "blue-wild-indigo",
@@ -1470,14 +1486,12 @@
     "selling_points": [
       "Deer Resistant",
       "Caterpillar Host",
-      "Fall Color",
-      "Long Blooming"
+      "Fall Color"
     ],
     "cautions": [
       "Toxic to Humans"
     ],
     "notes": "A stately, long-lived perennial with stunning lupine-like blue-purple flower spikes, handsome blue-green foliage, and ornamental dark seed pods.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌳",
@@ -1531,6 +1545,13 @@
       "Plant in full sun in well-drained, average soil.",
       "Space 3 feet apart; deep taproot makes transplanting hard.",
       "Scarify seeds before sowing; very long-lived once established."
+    ],
+    "detail_photos": [
+      "blue-wild-indigo-1.jpeg",
+      "blue-wild-indigo-2.jpeg",
+      "blue-wild-indigo-3.jpeg",
+      "blue-wild-indigo-4.jpeg",
+      "blue-wild-indigo-5.jpeg"
     ]
   },
   {
@@ -1608,12 +1629,6 @@
       "bluestem-goldenrod-3.jpg",
       "bluestem-goldenrod-4.jpeg",
       "bluestem-goldenrod-5.jpg"
-    ],
-    "facts": [
-      {
-        "title": "Bluestem Goldenrod",
-        "sub": "The only goldenrod that blooms well in deep shade — perfect for woodland gardens"
-      }
     ]
   },
   {
@@ -1640,7 +1655,6 @@
     ],
     "cautions": [],
     "notes": "A tall wetland perennial with distinctive perfoliate leaves that appear to be pierced by the stem, topped with flat clusters of fluffy white flowers.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -1694,6 +1708,13 @@
       "Plant plugs in moist to wet soil in full sun to part shade.",
       "Space 18 inches apart in rain gardens or stream edges.",
       "Cut back in late winter; new growth emerges from base."
+    ],
+    "detail_photos": [
+      "boneset-1.jpg",
+      "boneset-2.jpg",
+      "boneset-3.jpg",
+      "boneset-4.jpg",
+      "boneset-5.jpg"
     ]
   },
   {
@@ -1719,7 +1740,6 @@
     ],
     "cautions": [],
     "notes": "Pollinated exclusively by bumblebees which can pry open the closed flowers",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x1F41D;",
@@ -1793,8 +1813,7 @@
     "selling_points": [
       "Deer Resistant",
       "Pollinator Magnet",
-      "Self-Seeding",
-      "Wildlife Food"
+      "Self-Seeding"
     ],
     "cautions": [
       "Spreads by Seed"
@@ -1847,8 +1866,7 @@
       "brown-eyed-susan-3.jpeg",
       "brown-eyed-susan-4.jpeg",
       "brown-eyed-susan-5.jpeg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "bushs-coneflower",
@@ -1874,7 +1892,6 @@
     ],
     "cautions": [],
     "notes": "The only yellow-flowered Echinacea species, a rare Ozark native with drooping golden petals around a chocolate-brown cone and a sweet fragrance.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -1928,6 +1945,13 @@
       "Plant plugs in full sun in dry, rocky or gravelly soil.",
       "Space 15 inches apart; excellent drainage is essential.",
       "Deep taproot — do not transplant once established."
+    ],
+    "detail_photos": [
+      "bushs-coneflower-1.jpg",
+      "bushs-coneflower-2.jpg",
+      "bushs-coneflower-3.jpg",
+      "bushs-coneflower-4.jpg",
+      "bushs-coneflower-5.jpg"
     ]
   },
   {
@@ -2121,7 +2145,6 @@
       "Spreads by Root"
     ],
     "notes": "Can overwhelm smaller plants; spreads by rhizomes",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x1F41E;",
@@ -2170,9 +2193,9 @@
     "detail_photos": [
       "canada-anemone-1.jpg",
       "canada-anemone-2.jpg",
-      "canada-anemone-3.jpg",
+      "canada-anemone-3.jpeg",
       "canada-anemone-4.jpg",
-      "canada-anemone-5.jpeg"
+      "canada-anemone-5.jpg"
     ]
   },
   {
@@ -2200,7 +2223,6 @@
     ],
     "cautions": [],
     "notes": "A robust legume with dense spikes of creamy-white flowers that fixes nitrogen in the soil and attracts a wide range of pollinators including hummingbirds.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌱",
@@ -2254,6 +2276,13 @@
       "Scarify or soak seed overnight before planting in spring.",
       "Plant in full sun in average to moist soil.",
       "Fixes nitrogen in soil; no fertilizer needed."
+    ],
+    "detail_photos": [
+      "canada-milk-vetch-1.jpeg",
+      "canada-milk-vetch-2.jpeg",
+      "canada-milk-vetch-3.jpeg",
+      "canada-milk-vetch-4.jpeg",
+      "canada-milk-vetch-5.jpg"
     ]
   },
   {
@@ -2487,9 +2516,9 @@
     ],
     "detail_photos": [
       "wood-sedge-1.jpg",
-      "wood-sedge-2.jpg",
+      "wood-sedge-2.jpeg",
       "wood-sedge-3.jpeg",
-      "wood-sedge-4.jpeg",
+      "wood-sedge-4.jpg",
       "wood-sedge-5.jpg"
     ],
     "facts": [
@@ -2522,7 +2551,6 @@
     ],
     "cautions": [],
     "notes": "A clump-forming prairie sedge with distinctive copper-colored oval seed heads that tolerates dry conditions better than most sedges.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌳",
@@ -2576,6 +2604,13 @@
       "Sow seed or plant plugs in dry to mesic, well-drained soil.",
       "Choose a full-sun to part-sun location for best growth.",
       "Minimal watering after establishment; tolerates poor soils."
+    ],
+    "detail_photos": [
+      "copper-shouldered-oval-sedge-1.jpg",
+      "copper-shouldered-oval-sedge-2.jpg",
+      "copper-shouldered-oval-sedge-3.jpg",
+      "copper-shouldered-oval-sedge-4.jpg",
+      "copper-shouldered-oval-sedge-5.jpg"
     ]
   },
   {
@@ -2688,7 +2723,6 @@
     ],
     "cautions": [],
     "notes": "A slow-growing but long-lived prairie perennial with clusters of creamy, funnel-shaped flowers that only bumblebees are strong enough to pry open.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -2742,6 +2776,13 @@
       "Sow seed on surface in fall; needs cold stratification to germinate.",
       "Choose part shade with moist, well-drained prairie soil.",
       "Water regularly the first year; established plants are low-maintenance."
+    ],
+    "detail_photos": [
+      "cream-gentian-1.jpg",
+      "cream-gentian-2.jpeg",
+      "cream-gentian-3.jpeg",
+      "cream-gentian-4.jpg",
+      "cream-gentian-5.jpg"
     ]
   },
   {
@@ -2767,7 +2808,6 @@
     ],
     "cautions": [],
     "notes": "A versatile clump-forming sedge with distinctive globular prickly spikelets, found in moist woodlands, wet meadows, and stream banks.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -2821,6 +2861,13 @@
       "Plant plugs in moist to wet soil in full sun.",
       "Space 12 inches apart in rain gardens or near water.",
       "Tolerates seasonal flooding; keep soil consistently moist."
+    ],
+    "detail_photos": [
+      "crested-oval-sedge-1.jpeg",
+      "crested-oval-sedge-2.jpeg",
+      "crested-oval-sedge-3.jpeg",
+      "crested-oval-sedge-4.jpg",
+      "crested-oval-sedge-5.jpg"
     ]
   },
   {
@@ -2903,7 +2950,7 @@
       "culvers-root-2.jpg",
       "culvers-root-3.jpg",
       "culvers-root-4.jpg",
-      "culvers-root-5.jpeg"
+      "culvers-root-5.jpg"
     ]
   },
   {
@@ -2931,7 +2978,6 @@
       "Toxic to Humans"
     ],
     "notes": "A tough, upright perennial with clusters of small fragrant white flowers that attract a huge diversity of pollinators and produce silky-seeded pods.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -2985,6 +3031,13 @@
       "Plant in full sun in medium to dry soil.",
       "Space 18–24 inches apart; spreads by rhizomes.",
       "Allow room to colonize; good for meadow edges."
+    ],
+    "detail_photos": [
+      "dogbane-1.jpg",
+      "dogbane-2.jpg",
+      "dogbane-3.jpg",
+      "dogbane-4.jpg",
+      "dogbane-5.jpg"
     ]
   },
   {
@@ -3011,7 +3064,6 @@
       "Spreads by Seed"
     ],
     "notes": "Not native but naturalized; spreads by seed and rhizomes; excellent in rocky or gravelly soils",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -3065,6 +3117,13 @@
       "Plant in average to dry soil in full sun to part shade.",
       "Start from seed sown on the surface; needs light to germinate.",
       "Very adaptable; tolerates poor soil and some drought once established."
+    ],
+    "detail_photos": [
+      "dotted-st-johns-wort-1.jpg",
+      "dotted-st-johns-wort-2.jpeg",
+      "dotted-st-johns-wort-3.jpeg",
+      "dotted-st-johns-wort-4.jpeg",
+      "dotted-st-johns-wort-5.jpeg"
     ]
   },
   {
@@ -3149,6 +3208,13 @@
       "Sow seed near host grasses in dry, infertile prairie soil.",
       "Needs full sun and excellent drainage; avoid rich soils.",
       "Hemiparasitic — always plant with a grass host nearby."
+    ],
+    "detail_photos": [
+      "downy-painted-cup-1.jpg",
+      "downy-painted-cup-2.jpeg",
+      "downy-painted-cup-3.jpeg",
+      "downy-painted-cup-4.jpeg",
+      "downy-painted-cup-5.jpeg"
     ]
   },
   {
@@ -3175,7 +3241,6 @@
     ],
     "cautions": [],
     "notes": "A compact, aromatic woodland mint with whorls of lavender flowers stacked along the stem that attracts specialist bees in early summer.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌸",
@@ -3229,6 +3294,13 @@
       "Plant in part shade to full sun in dry to medium soil.",
       "Space 12–15 inches apart; forms tidy clumps.",
       "Very drought tolerant once established; avoid overwatering."
+    ],
+    "detail_photos": [
+      "downy-wood-mint-1.jpg",
+      "downy-wood-mint-2.jpeg",
+      "downy-wood-mint-3.jpeg",
+      "downy-wood-mint-4.jpeg",
+      "downy-wood-mint-5.jpeg"
     ]
   },
   {
@@ -3250,14 +3322,12 @@
     "selling_points": [
       "Early Bloomer",
       "Drought Tolerant",
-      "Pollinator Magnet",
-      "Easy to Grow"
+      "Pollinator Magnet"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "One of the earliest blooming goldenrods, producing firework-like sprays of bright yellow flowers in midsummer when few other goldenrods are in bloom.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🍂",
@@ -3311,6 +3381,13 @@
       "Plant in full sun in dry to average soil.",
       "Space 18-24 inches apart; tolerates poor, sandy ground.",
       "One of the earliest goldenrods; blooms July to August."
+    ],
+    "detail_photos": [
+      "early-goldenrod-1.jpeg",
+      "early-goldenrod-2.jpeg",
+      "early-goldenrod-3.jpg",
+      "early-goldenrod-4.jpg",
+      "early-goldenrod-5.jpg"
     ]
   },
   {
@@ -3419,7 +3496,6 @@
     ],
     "cautions": [],
     "notes": "A long-lived, clump-forming perennial with clusters of soft blue star-shaped flowers in spring and striking golden-yellow fall foliage.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -3473,6 +3549,13 @@
       "Plant in full sun to part shade in average, moist soil.",
       "Space 2–3 feet apart; slow to establish but long-lived.",
       "Cut back by one-third after bloom for compact fall form."
+    ],
+    "detail_photos": [
+      "eastern-bluestar-1.jpg",
+      "eastern-bluestar-2.jpg",
+      "eastern-bluestar-3.jpg",
+      "eastern-bluestar-4.jpg",
+      "eastern-bluestar-5.jpg"
     ]
   },
   {
@@ -3582,7 +3665,6 @@
     ],
     "cautions": [],
     "notes": "A fine-textured woodland sedge with star-shaped perigynia and vibrant green foliage, ideal for shaded gardens with consistent moisture.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -3636,6 +3718,13 @@
       "Plant plugs in part shade in moist to mesic soil.",
       "Space 10 inches apart as a woodland groundcover.",
       "Low maintenance once established; avoid heavy fertilizer."
+    ],
+    "detail_photos": [
+      "eastern-star-sedge-1.jpeg",
+      "eastern-star-sedge-2.jpeg",
+      "eastern-star-sedge-3.jpeg",
+      "eastern-star-sedge-4.jpeg",
+      "eastern-star-sedge-5.jpeg"
     ]
   },
   {
@@ -3657,14 +3746,12 @@
     "selling_points": [
       "Shade Tolerant",
       "Long Blooming",
-      "Pollinator Magnet",
-      "Wildlife Food"
+      "Pollinator Magnet"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "A graceful woodland goldenrod with arching stems and elm-shaped serrated leaves, producing copious yellow flowers in dappled shade.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -3718,6 +3805,13 @@
       "Plant in part shade to dappled sun in woodland soil.",
       "Space 18 inches apart; suited for edges and clearings.",
       "Tolerates dry shade once established; easy to grow."
+    ],
+    "detail_photos": [
+      "elm-leaved-goldenrod-1.jpg",
+      "elm-leaved-goldenrod-2.jpg",
+      "elm-leaved-goldenrod-3.jpg",
+      "elm-leaved-goldenrod-4.jpg",
+      "elm-leaved-goldenrod-5.jpeg"
     ]
   },
   {
@@ -3744,7 +3838,6 @@
     ],
     "cautions": [],
     "notes": "A tall, profusely blooming perennial covered in hundreds of small daisy-like white flowers in fall that thrives in moist to wet soils and rain gardens.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -3798,6 +3891,13 @@
       "Plant in full sun in moist to wet soil.",
       "Space 2–3 feet apart; can grow tall and bushy.",
       "Cut back by half in June for more compact fall bloom."
+    ],
+    "detail_photos": [
+      "false-aster-1.jpeg",
+      "false-aster-2.jpeg",
+      "false-aster-3.jpeg",
+      "false-aster-4.jpeg",
+      "false-aster-5.jpeg"
     ]
   },
   {
@@ -3819,12 +3919,10 @@
       "Deer Resistant",
       "Winter Interest",
       "Shade Tolerant",
-      "Wildlife Food",
-      "Fragrant"
+      "Wildlife Food"
     ],
     "cautions": [],
     "notes": "Red berries in fall attract birds (ruffed grouse)",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x1F426;",
@@ -3901,11 +3999,9 @@
       "Long Blooming"
     ],
     "cautions": [
-      "Spreads by Root",
-      "Spreads by Seed"
+      "Spreads by Root"
     ],
     "notes": "A showy pioneer wildflower with tall spikes of bright pink flowers that rapidly colonizes burned or disturbed ground.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -3959,6 +4055,13 @@
       "Sow seed on bare soil surface in full sun; needs light.",
       "Space 18 inches apart in meadow or disturbed-site planting.",
       "Spreads by rhizomes — contain or site in thin, dry soil."
+    ],
+    "detail_photos": [
+      "fireweed-1.jpg",
+      "fireweed-2.jpg",
+      "fireweed-3.jpg",
+      "fireweed-4.jpg",
+      "fireweed-5.jpg"
     ]
   },
   {
@@ -3980,14 +4083,12 @@
     "selling_points": [
       "Pollinator Magnet",
       "Rain Garden",
-      "Easy to Grow",
-      "Early Bloomer"
+      "Easy to Grow"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "A tall wetland aster with broad, flat-topped clusters of white daisy-like flowers that bloom much earlier than most asters.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -4041,6 +4142,13 @@
       "Plant plugs in moist, slightly acidic soil in full sun.",
       "Space 18 inches apart in meadow or rain garden edges.",
       "Tolerates wet feet; pair with other moisture-loving natives."
+    ],
+    "detail_photos": [
+      "flat-topped-aster-1.jpeg",
+      "flat-topped-aster-2.jpeg",
+      "flat-topped-aster-3.jpeg",
+      "flat-topped-aster-4.jpg",
+      "flat-topped-aster-5.jpg"
     ]
   },
   {
@@ -4068,7 +4176,6 @@
     ],
     "cautions": [],
     "notes": "Spreads by stolons to form attractive colonies; semi-evergreen foliage",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x2744;&#xFE0F;",
@@ -4199,6 +4306,13 @@
       "Sow seed in fall on soil surface; needs cold to germinate.",
       "Plant in full sun to part shade in average garden soil.",
       "Very adaptable; tolerates clay, drought, and deer browsing well."
+    ],
+    "detail_photos": [
+      "foxglove-beardtongue-1.jpg",
+      "foxglove-beardtongue-2.jpeg",
+      "foxglove-beardtongue-3.jpeg",
+      "foxglove-beardtongue-4.jpeg",
+      "foxglove-beardtongue-5.jpeg"
     ]
   },
   {
@@ -4275,8 +4389,7 @@
       "fringed-sedge-3.jpg",
       "fringed-sedge-4.jpg",
       "fringed-sedge-5.jpg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "goats-rue",
@@ -4297,14 +4410,12 @@
     "selling_points": [
       "Nitrogen Fixing",
       "Drought Tolerant",
-      "Deer Resistant",
-      "Rock Garden"
+      "Deer Resistant"
     ],
     "cautions": [
       "Deep Roots"
     ],
     "notes": "A silky-haired legume with stunning bicolored flowers — pale yellow and rose-pink — and elegant compound leaves that fix nitrogen in poor, sandy soils.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌱",
@@ -4358,6 +4469,13 @@
       "Scarify seeds or use cold stratification before planting.",
       "Plant in full sun in sandy, well-drained acidic soil.",
       "Space 18 inches apart; do not transplant (deep taproot)."
+    ],
+    "detail_photos": [
+      "goats-rue-1.jpg",
+      "goats-rue-2.jpg",
+      "goats-rue-3.jpg",
+      "goats-rue-4.jpg",
+      "goats-rue-5.jpg"
     ]
   },
   {
@@ -4379,14 +4497,12 @@
     "selling_points": [
       "Caterpillar Host",
       "Early Bloomer",
-      "Self-Seeding",
-      "Easy to Grow"
+      "Self-Seeding"
     ],
     "cautions": [
       "Spreads by Seed"
     ],
     "notes": "One of the earliest native perennials to bloom, producing flat-topped clusters of tiny yellow flowers that are a critical spring food source for short-tongued pollinators.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🦋",
@@ -4440,6 +4556,13 @@
       "Plant in part shade to full sun in moist soil.",
       "Space 12-18 inches apart; blooms early May to June.",
       "Self-sows gently; remove spent heads to control spread."
+    ],
+    "detail_photos": [
+      "golden-alexanders-1.jpg",
+      "golden-alexanders-2.jpg",
+      "golden-alexanders-3.jpg",
+      "golden-alexanders-4.jpeg",
+      "golden-alexanders-5.jpeg"
     ]
   },
   {
@@ -4461,14 +4584,12 @@
     "selling_points": [
       "Ground Cover",
       "Early Bloomer",
-      "Shade Tolerant",
-      "Rain Garden"
+      "Shade Tolerant"
     ],
     "cautions": [
       "Toxic to Humans"
     ],
     "notes": "A spreading, rhizomatous perennial forming evergreen rosettes of heart-shaped basal leaves topped by flat clusters of cheerful yellow daisy-like flowers in early spring.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🍂",
@@ -4522,6 +4643,13 @@
       "Plant plugs in moist to wet shade or part-shade areas.",
       "Spreads by stolons to form dense evergreen groundcover mats.",
       "Excellent low-maintenance lawn replacement in shady wet spots."
+    ],
+    "detail_photos": [
+      "golden-ragwort-1.jpg",
+      "golden-ragwort-2.jpeg",
+      "golden-ragwort-3.jpeg",
+      "golden-ragwort-4.jpeg",
+      "golden-ragwort-5.jpeg"
     ]
   },
   {
@@ -4543,14 +4671,12 @@
     "selling_points": [
       "Pollinator Magnet",
       "Rain Garden",
-      "Fast Growing",
-      "Long Blooming"
+      "Fast Growing"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "A showy, flat-topped goldenrod with narrow grass-like leaves and dense clusters of bright yellow flowers that attract a remarkable diversity of pollinators.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐝",
@@ -4604,6 +4730,13 @@
       "Plant plugs in full sun in moist, well-drained soil.",
       "Space 18 inches apart; spreads by rhizomes to form colonies.",
       "Tolerates poor and sandy soils; avoid overly rich conditions."
+    ],
+    "detail_photos": [
+      "grass-leaved-goldenrod-1.jpg",
+      "grass-leaved-goldenrod-2.jpg",
+      "grass-leaved-goldenrod-3.jpg",
+      "grass-leaved-goldenrod-4.jpg",
+      "grass-leaved-goldenrod-5.jpeg"
     ]
   },
   {
@@ -4706,14 +4839,12 @@
     "selling_points": [
       "Rain Garden",
       "Long Blooming",
-      "Wildlife Food",
-      "Erosion Control"
+      "Wildlife Food"
     ],
     "cautions": [
       "Toxic to Humans"
     ],
     "notes": "A wetland-adapted perennial with small yellow flowers that give way to showy purplish-red seed capsules, thriving in moist sandy soils and shallow standing water.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -4767,6 +4898,13 @@
       "Sow seed on moist, sandy soil surface in early spring.",
       "Choose full sun to part shade in wet meadow conditions.",
       "Tolerates seasonal flooding; no fertilizer needed once established."
+    ],
+    "detail_photos": [
+      "great-canada-st-johns-wort-1.jpeg",
+      "great-canada-st-johns-wort-2.jpeg",
+      "great-canada-st-johns-wort-3.jpeg",
+      "great-canada-st-johns-wort-4.jpg",
+      "great-canada-st-johns-wort-5.jpg"
     ]
   },
   {
@@ -4847,6 +4985,13 @@
       "Plant in moist, well-drained soil in sun to part shade.",
       "Space plants 18–24 inches apart in spring or fall.",
       "Water regularly until established; mulch lightly around base."
+    ],
+    "detail_photos": [
+      "great-st-johns-wort-1.jpg",
+      "great-st-johns-wort-2.jpeg",
+      "great-st-johns-wort-3.jpeg",
+      "great-st-johns-wort-4.jpeg",
+      "great-st-johns-wort-5.jpeg"
     ]
   },
   {
@@ -4949,14 +5094,12 @@
     "selling_points": [
       "Shade Tolerant",
       "Deer Resistant",
-      "Pollinator Magnet",
-      "Ground Cover"
+      "Pollinator Magnet"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "A shade-loving woodland mint with tiered clusters of white, two-lipped flowers that thrives in moist forests and attracts specialist native bees.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐝",
@@ -5010,6 +5153,13 @@
       "Plant in part shade in rich, moist woodland soil.",
       "Space 12–15 inches apart; prefers sheltered forest edges.",
       "Mulch with leaf litter to mimic natural woodland floor."
+    ],
+    "detail_photos": [
+      "hairy-wood-mint-1.jpeg",
+      "hairy-wood-mint-2.jpeg",
+      "hairy-wood-mint-3.jpeg",
+      "hairy-wood-mint-4.jpg",
+      "hairy-wood-mint-5.jpg"
     ]
   },
   {
@@ -5094,6 +5244,13 @@
       "Plant in full sun to light shade in well-drained, lean soil.",
       "Space 8–12 inches apart; ideal for rock gardens and edges.",
       "Very long bloom season; drought tolerant once established."
+    ],
+    "detail_photos": [
+      "harebell-1.jpg",
+      "harebell-2.jpeg",
+      "harebell-3.jpeg",
+      "harebell-4.jpg",
+      "harebell-5.jpg"
     ]
   },
   {
@@ -5116,14 +5273,12 @@
     "selling_points": [
       "Drought Tolerant",
       "Caterpillar Host",
-      "Long Blooming",
-      "Pollinator Magnet"
+      "Long Blooming"
     ],
     "cautions": [
       "Spreads by Seed"
     ],
     "notes": "A tough, drought-tolerant prairie perennial with fuzzy gray-green foliage and tall spikes of blue-purple flowers that bloom for weeks.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "💧",
@@ -5177,6 +5332,13 @@
       "Sow seeds in fall directly onto prepared soil surface.",
       "Plant in full sun in dry to average well-drained soil.",
       "Space 12-18 inches apart; very drought tolerant once set."
+    ],
+    "detail_photos": [
+      "hoary-vervain-1.jpg",
+      "hoary-vervain-2.jpg",
+      "hoary-vervain-3.jpg",
+      "hoary-vervain-4.jpeg",
+      "hoary-vervain-5.jpeg"
     ]
   },
   {
@@ -5200,7 +5362,6 @@
     ],
     "cautions": [],
     "notes": "A majestic warm-season prairie grass with blue-green foliage topped by golden-bronze plumes that turn rich orange in fall.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌳",
@@ -5254,6 +5415,13 @@
       "Sow seed in spring on prepared soil; press firmly.",
       "Plant in full sun in average to moist soil.",
       "Space 2-3 feet apart; grows 4-7 feet tall."
+    ],
+    "detail_photos": [
+      "indian-grass-1.jpeg",
+      "indian-grass-2.jpeg",
+      "indian-grass-3.jpeg",
+      "indian-grass-4.jpeg",
+      "indian-grass-5.jpeg"
     ]
   },
   {
@@ -5336,6 +5504,13 @@
       "Sow seed near a host grass like Little Bluestem in fall.",
       "Choose full sun with lean, well-drained prairie soil.",
       "Do not fertilize; this hemiparasite needs host plant roots."
+    ],
+    "detail_photos": [
+      "indian-paintbrush-1.jpg",
+      "indian-paintbrush-2.jpg",
+      "indian-paintbrush-3.jpg",
+      "indian-paintbrush-4.jpg",
+      "indian-paintbrush-5.jpg"
     ]
   },
   {
@@ -5361,7 +5536,6 @@
     ],
     "cautions": [],
     "notes": "A delicate, fine-textured sedge with thin wiry leaves that thrives on limestone outcroppings and shady dry sites.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -5415,6 +5589,13 @@
       "Plant plugs in part to full shade in well-drained soil.",
       "Space 8 inches apart in rock gardens or along paths.",
       "Drought-tolerant once established; no supplemental water needed."
+    ],
+    "detail_photos": [
+      "ivory-sedge-1.jpg",
+      "ivory-sedge-2.jpg",
+      "ivory-sedge-3.jpg",
+      "ivory-sedge-4.jpg",
+      "ivory-sedge-5.jpg"
     ]
   },
   {
@@ -5499,6 +5680,13 @@
       "Plant plugs in moist to wet soil in full sun.",
       "Space 24 inches apart; grows 4-6 feet tall at maturity.",
       "Thrives in rain gardens, stream banks, and wet meadows."
+    ],
+    "detail_photos": [
+      "joe-pye-weed-1.jpeg",
+      "joe-pye-weed-2.jpeg",
+      "joe-pye-weed-3.jpeg",
+      "joe-pye-weed-4.jpeg",
+      "joe-pye-weed-5.jpeg"
     ]
   },
   {
@@ -5570,8 +5758,7 @@
       "lady-fern-3.jpeg",
       "lady-fern-4.jpeg",
       "lady-fern-5.jpeg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "lance-leaf-coreopsis",
@@ -5649,8 +5836,7 @@
       "lance-leaf-coreopsis-3.jpg",
       "lance-leaf-coreopsis-4.jpg",
       "lance-leaf-coreopsis-5.jpg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "large-flowered-beardtongue",
@@ -5673,7 +5859,6 @@
     ],
     "cautions": [],
     "notes": "A striking short-lived perennial with the largest flowers of any Penstemon — showy 2-inch lavender-pink tubular blooms above thick, blue-green clasping leaves.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -5727,6 +5912,13 @@
       "Sow seed in fall in sandy or gravelly well-drained soil.",
       "Full sun required; does not tolerate wet or clay-heavy soils.",
       "Short-lived perennial; let it self-seed to maintain the colony."
+    ],
+    "detail_photos": [
+      "large-flowered-beardtongue-1.jpg",
+      "large-flowered-beardtongue-2.jpeg",
+      "large-flowered-beardtongue-3.jpeg",
+      "large-flowered-beardtongue-4.jpeg",
+      "large-flowered-beardtongue-5.jpg"
     ]
   },
   {
@@ -5839,7 +6031,6 @@
     ],
     "cautions": [],
     "notes": "A wetland mint-family perennial with tiny blue two-lipped flowers arranged in one-sided racemes along the upper stems.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -5893,6 +6084,13 @@
       "Plant in part shade to full sun in moist soil.",
       "Space 12-18 inches apart near streams or rain gardens.",
       "Keep soil consistently moist; does not tolerate drought."
+    ],
+    "detail_photos": [
+      "mad-dog-skullcap-1.jpg",
+      "mad-dog-skullcap-2.jpg",
+      "mad-dog-skullcap-3.jpg",
+      "mad-dog-skullcap-4.jpg",
+      "mad-dog-skullcap-5.jpg"
     ]
   },
   {
@@ -5959,8 +6157,7 @@
       "maidenhair-fern-3.jpg",
       "maidenhair-fern-4.jpg",
       "maidenhair-fern-5.jpg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "marsh-betony",
@@ -5983,7 +6180,6 @@
     ],
     "cautions": [],
     "notes": "A wetland hemiparasite with light yellow hooded flowers blooming in late summer, serving as an important host plant for the Baltimore Checkerspot butterfly.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌱",
@@ -6037,6 +6233,13 @@
       "Sow fresh seed in fall in wet calcareous meadow soil.",
       "Hemiparasitic; must be planted among grasses or sedges as hosts.",
       "Keep soil consistently wet; does not tolerate drought at all."
+    ],
+    "detail_photos": [
+      "marsh-betony-1.jpeg",
+      "marsh-betony-2.jpg",
+      "marsh-betony-3.jpg",
+      "marsh-betony-4.jpeg",
+      "marsh-betony-5.jpeg"
     ]
   },
   {
@@ -6147,7 +6350,6 @@
     ],
     "cautions": [],
     "notes": "Does not spread aggressively like some violets; smooth leaves distinguish it from Downy Yellow Violet",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -6197,6 +6399,13 @@
       "Plant in part shade with moist, humus-rich soil.",
       "Space 6–8 inches apart as groundcover.",
       "Divide clumps every few years to manage spread."
+    ],
+    "detail_photos": [
+      "meadow-blue-violet-1.jpg",
+      "meadow-blue-violet-2.jpg",
+      "meadow-blue-violet-3.jpg",
+      "meadow-blue-violet-4.jpg",
+      "meadow-blue-violet-5.jpg"
     ]
   },
   {
@@ -6284,6 +6493,13 @@
       "Plant bulbs 4-6 inches deep in fall in rich moist soil.",
       "Choose part shade to full sun with consistent soil moisture.",
       "Mulch lightly to keep roots cool; avoid disturbing established bulbs."
+    ],
+    "detail_photos": [
+      "michigan-lily-1.jpeg",
+      "michigan-lily-2.jpeg",
+      "michigan-lily-3.jpg",
+      "michigan-lily-4.jpg",
+      "michigan-lily-5.jpg"
     ]
   },
   {
@@ -6310,7 +6526,6 @@
       "Late to Emerge"
     ],
     "notes": "A beloved spring ephemeral with swept-back petals that resemble shooting stars, pollinated exclusively by bees using buzz pollination.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -6364,6 +6579,13 @@
       "Plant plugs in spring in moist, part-shade woodland soil.",
       "Space 10 inches apart; goes dormant by midsummer.",
       "Mark location to avoid disturbing during summer dormancy."
+    ],
+    "detail_photos": [
+      "midland-shooting-star-1.jpg",
+      "midland-shooting-star-2.jpeg",
+      "midland-shooting-star-3.jpeg",
+      "midland-shooting-star-4.jpeg",
+      "midland-shooting-star-5.jpg"
     ]
   },
   {
@@ -6390,7 +6612,6 @@
     ],
     "cautions": [],
     "notes": "A wetland perennial with snapdragon-like lavender flowers on distinctive square stems, serving as the exclusive larval host for the Baltimore Checkerspot butterfly.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🦋",
@@ -6444,6 +6665,13 @@
       "Sow tiny seeds on wet soil surface; needs light to germinate.",
       "Plant in full sun to part shade in consistently wet soil.",
       "Ideal for rain gardens, pond edges, and low boggy areas."
+    ],
+    "detail_photos": [
+      "monkey-flower-1.jpg",
+      "monkey-flower-2.jpg",
+      "monkey-flower-3.jpg",
+      "monkey-flower-4.jpg",
+      "monkey-flower-5.jpg"
     ]
   },
   {
@@ -6465,14 +6693,12 @@
     "selling_points": [
       "Pollinator Magnet",
       "Deer Resistant",
-      "Easy to Grow",
-      "Long Blooming"
+      "Easy to Grow"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "A highly aromatic mint-family perennial with silvery-white flower clusters that attract an extraordinary diversity of pollinators throughout summer.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -6526,6 +6752,13 @@
       "Plant plugs in moist to medium soil in full to part sun.",
       "Spreads by rhizomes; give room or use a root barrier edge.",
       "Cut back by half in late spring for bushier growth habit."
+    ],
+    "detail_photos": [
+      "mountain-mint-1.jpeg",
+      "mountain-mint-2.jpeg",
+      "mountain-mint-3.jpeg",
+      "mountain-mint-4.jpeg",
+      "mountain-mint-5.jpeg"
     ]
   },
   {
@@ -6610,6 +6843,13 @@
       "Plant in full sun in moist, rich garden soil.",
       "Space 2-3 feet apart; pinch stems in June for bushiness.",
       "Water during dry spells; prefers consistent moisture."
+    ],
+    "detail_photos": [
+      "new-england-aster-1.jpg",
+      "new-england-aster-2.jpg",
+      "new-england-aster-3.jpg",
+      "new-england-aster-4.jpg",
+      "new-england-aster-5.jpg"
     ]
   },
   {
@@ -6711,7 +6951,7 @@
       "11": "December: Resting underground. A great time to plan which native companions to add next spring!"
     },
     "detail_photos": [
-      "new-jersey-tea-1.jpg",
+      "new-jersey-tea-1.jpeg",
       "new-jersey-tea-2.jpg",
       "new-jersey-tea-3.jpg",
       "new-jersey-tea-4.jpg",
@@ -6743,14 +6983,12 @@
     "selling_points": [
       "Pollinator Magnet",
       "Late Bloomer",
-      "Caterpillar Host",
-      "Easy to Grow"
+      "Caterpillar Host"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "A showy fall-blooming aster with sprays of blue-violet flowers that is native to the Northeast and an important host for checkerspot butterflies.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌸",
@@ -6804,6 +7042,13 @@
       "Plant in full sun to part shade in moist soil.",
       "Space 18-24 inches apart; thrives in wet meadows.",
       "Divide clumps every 2-3 years to maintain vigor."
+    ],
+    "detail_photos": [
+      "new-york-aster-1.jpeg",
+      "new-york-aster-2.jpeg",
+      "new-york-aster-3.jpeg",
+      "new-york-aster-4.jpeg",
+      "new-york-aster-5.jpeg"
     ]
   },
   {
@@ -6888,6 +7133,13 @@
       "Plant in full sun in moist to wet rich soil.",
       "Space 2-3 feet apart; grows 5-8 feet tall.",
       "Cut back in late spring for shorter, bushier plants."
+    ],
+    "detail_photos": [
+      "new-york-ironweed-1.jpeg",
+      "new-york-ironweed-2.jpeg",
+      "new-york-ironweed-3.jpeg",
+      "new-york-ironweed-4.jpg",
+      "new-york-ironweed-5.jpg"
     ]
   },
   {
@@ -6964,8 +7216,7 @@
       "ninebark-3.jpg",
       "ninebark-4.jpg",
       "ninebark-5.jpeg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "nodding-onion",
@@ -7049,6 +7300,13 @@
       "Plant bulbs 1–2 inches deep in well-drained soil, full sun.",
       "Space 6–10 inches apart; tolerates rocky or sandy ground.",
       "Water lightly; very drought tolerant once established."
+    ],
+    "detail_photos": [
+      "nodding-onion-1.jpg",
+      "nodding-onion-2.jpg",
+      "nodding-onion-3.jpg",
+      "nodding-onion-4.jpg",
+      "nodding-onion-5.jpeg"
     ]
   },
   {
@@ -7127,8 +7385,7 @@
       "obedient-plant-3.jpg",
       "obedient-plant-4.jpg",
       "obedient-plant-5.jpg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "ohio-spiderwort",
@@ -7151,9 +7408,7 @@
       "Pollinator Magnet",
       "Shade Tolerant"
     ],
-    "cautions": [
-      "Spreads by Seed"
-    ],
+    "cautions": [],
     "notes": "Not native but naturalized; used in borders, naturalizing, and rock gardens",
     "fun_facts": [
       {
@@ -7206,12 +7461,6 @@
       "ohio-spiderwort-3.jpeg",
       "ohio-spiderwort-4.jpg",
       "ohio-spiderwort-5.jpg"
-    ],
-    "facts": [
-      {
-        "title": "Ohio Spiderwort",
-        "sub": "Each flower lasts only one morning — new ones open every day for weeks."
-      }
     ]
   },
   {
@@ -7233,14 +7482,12 @@
     "selling_points": [
       "Pollinator Magnet",
       "Easy to Grow",
-      "Long Blooming",
-      "Wildlife Food"
+      "Long Blooming"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "A robust and floriferous perennial producing masses of tangerine-orange daisy flowers with chocolate-brown centers from midsummer into fall.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -7316,14 +7563,12 @@
     "selling_points": [
       "Long Blooming",
       "Rock Garden",
-      "Self-Seeding",
-      "Easy to Grow"
+      "Self-Seeding"
     ],
     "cautions": [
       "Spreads by Seed"
     ],
     "notes": "A delicate annual or biennial with lacy blue-green foliage and charming tubular pink flowers tipped in bright yellow, thriving in rocky, poor soils.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -7373,6 +7618,13 @@
       "Scatter seed on rocky or gravelly soil in part shade.",
       "Thrives in disturbed, well-drained acidic sites.",
       "Biennial — let plants self-sow for continuous colonies."
+    ],
+    "detail_photos": [
+      "pale-corydalis-1.jpg",
+      "pale-corydalis-2.jpg",
+      "pale-corydalis-3.jpg",
+      "pale-corydalis-4.jpg",
+      "pale-corydalis-5.jpeg"
     ]
   },
   {
@@ -7399,7 +7651,6 @@
     ],
     "cautions": [],
     "notes": "A hairy prairie perennial with dramatically drooping pale pink petals that hang almost straight down around a spiny copper-orange cone.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -7453,6 +7704,13 @@
       "Plant plugs or sow seed in full sun, well-drained soil.",
       "Space 18 inches apart in prairie or meadow planting.",
       "Deep taproot makes it very drought-tolerant once established."
+    ],
+    "detail_photos": [
+      "pale-purple-coneflower-1.jpg",
+      "pale-purple-coneflower-2.jpg",
+      "pale-purple-coneflower-3.jpeg",
+      "pale-purple-coneflower-4.jpeg",
+      "pale-purple-coneflower-5.jpg"
     ]
   },
   {
@@ -7638,14 +7896,12 @@
     "selling_points": [
       "Fragrant",
       "Wildlife Food",
-      "Erosion Control",
-      "Pollinator Magnet"
+      "Erosion Control"
     ],
     "cautions": [
       "Thorns"
     ],
     "notes": "Rose hips provide winter food for birds; host plant for several moth species",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x1F426;",
@@ -7859,9 +8115,9 @@
     "detail_photos": [
       "plantain-leaved-sedge-1.jpeg",
       "plantain-leaved-sedge-2.jpeg",
-      "plantain-leaved-sedge-3.jpeg",
-      "plantain-leaved-sedge-4.jpeg",
-      "plantain-leaved-sedge-5.jpg"
+      "plantain-leaved-sedge-3.jpg",
+      "plantain-leaved-sedge-4.jpg",
+      "plantain-leaved-sedge-5.jpeg"
     ],
     "facts": [
       {
@@ -7893,7 +8149,6 @@
     ],
     "cautions": [],
     "notes": "A wiry, blue-green bunchgrass with curly basal leaves that thrives in poor, dry soils where other grasses fail.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌱",
@@ -7947,6 +8202,13 @@
       "Sow seed or plant plugs in dry, infertile sandy soil.",
       "Choose full sun to part sun with good drainage.",
       "Do not fertilize — thrives in nutrient-poor conditions."
+    ],
+    "detail_photos": [
+      "poverty-oat-grass-1.jpg",
+      "poverty-oat-grass-2.jpg",
+      "poverty-oat-grass-3.jpg",
+      "poverty-oat-grass-4.jpeg",
+      "poverty-oat-grass-5.jpeg"
     ]
   },
   {
@@ -7972,7 +8234,6 @@
     ],
     "cautions": [],
     "notes": "A mounding perennial with curly-edged basal foliage and tall, airy stalks of subtle green-to-cream bell-shaped flowers that take on ruddy tints in full sun.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -8026,6 +8287,13 @@
       "Plant crown at soil level in well-drained, dry to medium soil.",
       "Provide full sun to light shade; tolerates rocky or sandy ground.",
       "Divide clumps every 3-4 years to maintain plant vigor."
+    ],
+    "detail_photos": [
+      "prairie-alumroot-1.jpeg",
+      "prairie-alumroot-2.jpeg",
+      "prairie-alumroot-3.jpg",
+      "prairie-alumroot-4.jpg",
+      "prairie-alumroot-5.jpg"
     ]
   },
   {
@@ -8114,6 +8382,13 @@
       "Plant corms 3 inches deep in moist to medium prairie soil.",
       "Needs full sun; does best in heavy clay or loam soils.",
       "No staking needed; blooms top-down from July to September."
+    ],
+    "detail_photos": [
+      "prairie-blazing-star-1.jpg",
+      "prairie-blazing-star-2.jpg",
+      "prairie-blazing-star-3.jpg",
+      "prairie-blazing-star-4.jpg",
+      "prairie-blazing-star-5.jpg"
     ]
   },
   {
@@ -8137,7 +8412,6 @@
     ],
     "cautions": [],
     "notes": "An elegant, fine-textured bunchgrass forming fountain-like mounds of arching foliage with airy seed heads that smell like buttered popcorn or coriander.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -8191,6 +8465,13 @@
       "Plant plugs in spring in full sun, well-drained soil.",
       "Space 18-24 inches apart; forms neat fountain-shaped clumps.",
       "Very drought tolerant once established; do not overwater."
+    ],
+    "detail_photos": [
+      "prairie-dropseed-1.jpg",
+      "prairie-dropseed-2.jpg",
+      "prairie-dropseed-3.jpg",
+      "prairie-dropseed-4.jpg",
+      "prairie-dropseed-5.jpeg"
     ]
   },
   {
@@ -8294,7 +8575,6 @@
     ],
     "cautions": [],
     "notes": "Pollinated exclusively by bumblebees; feathery seed heads are ornamental",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x1F32C;",
@@ -8423,8 +8703,7 @@
       "prairie-willow-3.jpeg",
       "prairie-willow-4.jpeg",
       "prairie-willow-5.jpeg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "purple-coneflower",
@@ -8527,14 +8806,12 @@
     "selling_points": [
       "Pollinator Magnet",
       "Late Bloomer",
-      "Self-Seeding",
-      "Caterpillar Host"
+      "Self-Seeding"
     ],
     "cautions": [
       "Spreads by Seed"
     ],
     "notes": "A delicate, hemiparasitic annual wildflower with showy pink-purple trumpet-shaped flowers that lights up moist meadows and shorelines in late summer.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌱",
@@ -8588,6 +8865,13 @@
       "Sow seed on moist, open ground in fall for stratification.",
       "Needs grass roots nearby; it is hemiparasitic on grasses.",
       "Do not fertilize; thrives in lean, sandy or acidic soils."
+    ],
+    "detail_photos": [
+      "purple-false-foxglove-1.jpg",
+      "purple-false-foxglove-2.jpg",
+      "purple-false-foxglove-3.jpg",
+      "purple-false-foxglove-4.jpg",
+      "purple-false-foxglove-5.jpg"
     ]
   },
   {
@@ -8608,14 +8892,12 @@
     "selling_points": [
       "Drought Tolerant",
       "Erosion Control",
-      "Late Bloomer",
-      "Winter Interest"
+      "Late Bloomer"
     ],
     "cautions": [
       "Spreads by Seed"
     ],
     "notes": "A warm-season bunchgrass that produces airy clouds of reddish-purple flower panicles in late summer, creating a spectacular purple haze across the landscape.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -8669,6 +8951,13 @@
       "Plant plugs or sow seed in dry, sandy full-sun soil.",
       "Space 12 inches apart for a flowing meadow effect.",
       "Very low maintenance; avoid fertile soil or overwatering."
+    ],
+    "detail_photos": [
+      "purple-love-grass-1.jpeg",
+      "purple-love-grass-2.jpeg",
+      "purple-love-grass-3.jpeg",
+      "purple-love-grass-4.jpeg",
+      "purple-love-grass-5.jpeg"
     ]
   },
   {
@@ -8694,7 +8983,6 @@
     ],
     "cautions": [],
     "notes": "An elegant woodland sedge with purple-tinged basal sheaths and gracefully arching stems that dangle strings of bead-like seeds.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -8748,6 +9036,13 @@
       "Plant plugs in shady, moist woodland soil in spring.",
       "Space 12 inches apart under deciduous tree canopy.",
       "Keep soil consistently moist; mulch lightly with leaf litter."
+    ],
+    "detail_photos": [
+      "purple-sheathed-graceful-sedge-1.jpg",
+      "purple-sheathed-graceful-sedge-2.jpg",
+      "purple-sheathed-graceful-sedge-3.jpg",
+      "purple-sheathed-graceful-sedge-4.jpeg",
+      "purple-sheathed-graceful-sedge-5.jpeg"
     ]
   },
   {
@@ -8768,8 +9063,7 @@
     "selling_points": [
       "Early Bloomer",
       "Pollinator Magnet",
-      "Wildlife Food",
-      "Fast Growing"
+      "Wildlife Food"
     ],
     "cautions": [
       "Spreads by Root"
@@ -8826,8 +9120,7 @@
       "pussy-willow-3.jpg",
       "pussy-willow-4.jpg",
       "pussy-willow-5.jpg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "pussytoes",
@@ -8853,7 +9146,6 @@
     ],
     "cautions": [],
     "notes": "A low-growing, mat-forming perennial with fuzzy silver-green leaves and soft white flower clusters that resemble tiny cat paws in early spring.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🦋",
@@ -8907,6 +9199,13 @@
       "Plant in full sun in dry, poor to average soil.",
       "Space 8–12 inches apart; forms a low spreading mat.",
       "Avoid rich soil and overwatering; thrives on neglect."
+    ],
+    "detail_photos": [
+      "pussytoes-1.jpeg",
+      "pussytoes-2.jpg",
+      "pussytoes-3.jpeg",
+      "pussytoes-4.jpeg",
+      "pussytoes-5.jpeg"
     ]
   },
   {
@@ -8933,7 +9232,6 @@
     ],
     "cautions": [],
     "notes": "An unusual prairie perennial with stiff yucca-like blue-green leaves and spherical thistle-like heads of tiny greenish-white flowers that attract diverse pollinators.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -8987,6 +9285,13 @@
       "Plant plugs in full sun in average to dry prairie soil.",
       "Space 18 inches apart; deep taproot ensures drought tolerance.",
       "Leave dried seed heads standing for winter wildlife interest."
+    ],
+    "detail_photos": [
+      "rattlesnake-master-1.jpg",
+      "rattlesnake-master-2.jpg",
+      "rattlesnake-master-3.jpg",
+      "rattlesnake-master-4.jpg",
+      "rattlesnake-master-5.jpeg"
     ]
   },
   {
@@ -9065,8 +9370,7 @@
       "red-osier-dogwood-3.jpg",
       "red-osier-dogwood-4.jpg",
       "red-osier-dogwood-5.jpg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "rose-mallow",
@@ -9175,7 +9479,6 @@
     ],
     "cautions": [],
     "notes": "A sturdy prairie legume with round clusters of cream flowers with pink throats, whose rigid stems and deep brown seed heads persist through winter providing food for birds.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌱",
@@ -9229,6 +9532,13 @@
       "Scarify or soak seed overnight before spring planting in dry soil.",
       "Plant in full sun; thrives in poor, sandy, or gravelly soils.",
       "Do not fertilize; as a legume it fixes its own nitrogen."
+    ],
+    "detail_photos": [
+      "round-headed-bush-clover-1.jpg",
+      "round-headed-bush-clover-2.jpg",
+      "round-headed-bush-clover-3.jpg",
+      "round-headed-bush-clover-4.jpg",
+      "round-headed-bush-clover-5.jpeg"
     ]
   },
   {
@@ -9315,6 +9625,13 @@
       "Plant in full sun in dry to average well-drained soil.",
       "Space 12-18 inches apart; protect from heavy competition.",
       "Avoid overwatering; thrives in lean, rocky conditions."
+    ],
+    "detail_photos": [
+      "royal-catchfly-1.jpg",
+      "royal-catchfly-2.jpeg",
+      "royal-catchfly-3.jpg",
+      "royal-catchfly-4.jpg",
+      "royal-catchfly-5.jpg"
     ]
   },
   {
@@ -9420,9 +9737,7 @@
       "Erosion Control",
       "Self-Seeding"
     ],
-    "cautions": [
-      "Spreads by Seed"
-    ],
+    "cautions": [],
     "notes": "Ornamental grass with dangling oat-like seed heads; spreads aggressively via seed heads",
     "fun_facts": [
       {
@@ -9475,12 +9790,6 @@
       "sea-oats-3.jpg",
       "sea-oats-4.jpg",
       "sea-oats-5.jpg"
-    ],
-    "facts": [
-      {
-        "title": "Sea Oats",
-        "sub": "Flat, dangling seed heads look like tiny fish on a line — spectacular in fall br"
-      }
     ]
   },
   {
@@ -9641,12 +9950,6 @@
       "showy-mountain-mint-3.jpg",
       "showy-mountain-mint-4.jpg",
       "showy-mountain-mint-5.jpg"
-    ],
-    "facts": [
-      {
-        "title": "Showy Mountain Mint",
-        "sub": "Ranked among the top 5 pollinator plants in scientific studies — attracts incred"
-      }
     ]
   },
   {
@@ -9672,7 +9975,6 @@
     ],
     "cautions": [],
     "notes": "A graceful warm-season bunch grass with distinctive oat-like spikelets that dangle from one side of the stem, turning rich purple and tan in fall.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -9726,6 +10028,13 @@
       "Sow seed in spring on well-drained, lean soil in full sun.",
       "Space 12–18 inches apart; tolerates rocky and clay soils.",
       "Do not fertilize; thrives in low-nutrient prairie conditions."
+    ],
+    "detail_photos": [
+      "side-oats-grama-1.jpg",
+      "side-oats-grama-2.jpg",
+      "side-oats-grama-3.jpg",
+      "side-oats-grama-4.jpg",
+      "side-oats-grama-5.jpg"
     ]
   },
   {
@@ -9752,7 +10061,6 @@
     ],
     "cautions": [],
     "notes": "A graceful, well-behaved aster with open sprays of sky-blue flowers on arching branches, thriving in dry conditions where other asters struggle.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -9806,6 +10114,13 @@
       "Plant in full sun in dry to average well-drained soil.",
       "Space 18 inches apart; tolerates poor, sandy conditions.",
       "Very drought tolerant; ideal for dry meadow gardens."
+    ],
+    "detail_photos": [
+      "sky-blue-aster-1.jpeg",
+      "sky-blue-aster-2.jpeg",
+      "sky-blue-aster-3.jpeg",
+      "sky-blue-aster-4.jpeg",
+      "sky-blue-aster-5.jpeg"
     ]
   },
   {
@@ -9827,14 +10142,12 @@
     "selling_points": [
       "Self-Seeding",
       "Late Bloomer",
-      "Caterpillar Host",
-      "Easy to Grow"
+      "Caterpillar Host"
     ],
     "cautions": [
       "Spreads by Seed"
     ],
     "notes": "A dainty, adaptable annual with tiny funnel-shaped pink flowers that blooms prolifically in late summer across fields, prairies, and stream edges.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -9888,6 +10201,13 @@
       "Scatter seed on bare soil near grasses in fall.",
       "Requires grass host roots; plant among established grasses.",
       "Keep soil moist but well-drained; full sun preferred."
+    ],
+    "detail_photos": [
+      "slender-false-foxglove-1.jpg",
+      "slender-false-foxglove-2.jpg",
+      "slender-false-foxglove-3.jpeg",
+      "slender-false-foxglove-4.jpg",
+      "slender-false-foxglove-5.jpg"
     ]
   },
   {
@@ -9909,14 +10229,12 @@
     "selling_points": [
       "Pollinator Magnet",
       "Deer Resistant",
-      "Drought Tolerant",
-      "Fragrant"
+      "Drought Tolerant"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "A highly aromatic mint-family perennial with needle-like leaves and profuse clusters of tiny white flowers that attract an extraordinary diversity of pollinating insects.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🦋",
@@ -9970,6 +10288,13 @@
       "Plant plugs in full sun in average to dry garden soil.",
       "Space 18 inches apart; spreads moderately by rhizomes over time.",
       "Minty foliage is deer resistant; no pest or disease problems."
+    ],
+    "detail_photos": [
+      "slender-mountain-mint-1.jpg",
+      "slender-mountain-mint-2.jpg",
+      "slender-mountain-mint-3.jpg",
+      "slender-mountain-mint-4.jpg",
+      "slender-mountain-mint-5.jpg"
     ]
   },
   {
@@ -9991,14 +10316,12 @@
     "selling_points": [
       "Drought Tolerant",
       "Late Bloomer",
-      "Caterpillar Host",
-      "Pollinator Magnet"
+      "Caterpillar Host"
     ],
     "cautions": [
       "Spreads by Seed"
     ],
     "notes": "A refined aster with exceptionally smooth blue-green foliage and loose clusters of violet-blue flowers that light up the fall garden.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -10052,6 +10375,13 @@
       "Plant in full sun in dry to average well-drained soil.",
       "Space 18 inches apart; stems are sturdy and upright.",
       "Drought tolerant; excellent for meadows and borders."
+    ],
+    "detail_photos": [
+      "smooth-blue-aster-1.jpeg",
+      "smooth-blue-aster-2.jpeg",
+      "smooth-blue-aster-3.jpeg",
+      "smooth-blue-aster-4.jpg",
+      "smooth-blue-aster-5.jpg"
     ]
   },
   {
@@ -10078,7 +10408,6 @@
     ],
     "cautions": [],
     "notes": "A tall, showy woodland perennial with large bright yellow trumpet flowers that thrives in the dappled shade of oak forests where it parasitizes oak roots.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "💧",
@@ -10132,6 +10461,13 @@
       "Plant near oak trees; hemiparasitic on oak roots.",
       "Sow seed in fall in part shade with leaf litter.",
       "Do not transplant easily; best grown from seed in place."
+    ],
+    "detail_photos": [
+      "smooth-yellow-false-foxglove-1.jpg",
+      "smooth-yellow-false-foxglove-2.jpeg",
+      "smooth-yellow-false-foxglove-3.jpeg",
+      "smooth-yellow-false-foxglove-4.jpeg",
+      "smooth-yellow-false-foxglove-5.jpeg"
     ]
   },
   {
@@ -10157,12 +10493,6 @@
     ],
     "cautions": [],
     "notes": "Does not spread aggressively like some violets; smooth leaves distinguish it from Downy Yellow Violet",
-    "facts": [
-      {
-        "title": "Well-Behaved",
-        "sub": "Does not spread aggressively like other violets"
-      }
-    ],
     "fun_facts": [
       {
         "icon": "&#x2705;",
@@ -10207,8 +10537,8 @@
     "detail_photos": [
       "smooth-yellow-violet-1.jpg",
       "smooth-yellow-violet-2.jpg",
-      "smooth-yellow-violet-3.jpeg",
-      "smooth-yellow-violet-4.jpeg",
+      "smooth-yellow-violet-3.jpg",
+      "smooth-yellow-violet-4.jpg",
       "smooth-yellow-violet-5.jpg"
     ]
   },
@@ -10236,7 +10566,6 @@
     ],
     "cautions": [],
     "notes": "A showy fall-blooming perennial with clusters of bright yellow, daisy-like flowers featuring distinctive wedge-shaped petals and dome-shaped centers.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐝",
@@ -10290,6 +10619,13 @@
       "Plant plugs in spring in full sun, moist to wet soil.",
       "Space plants 18 inches apart; they spread by shallow roots.",
       "Cut back in early summer for bushier growth and more blooms."
+    ],
+    "detail_photos": [
+      "sneezeweed-1.jpg",
+      "sneezeweed-2.jpg",
+      "sneezeweed-3.jpg",
+      "sneezeweed-4.jpg",
+      "sneezeweed-5.jpg"
     ]
   },
   {
@@ -10646,7 +10982,6 @@
     ],
     "cautions": [],
     "notes": "A tall, long-lived perennial with sweetly anise-scented foliage and abundant 3-inch yellow daisy flowers with dark purple-brown centers.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -10700,6 +11035,13 @@
       "Sow seeds in fall or cold-stratify for spring planting.",
       "Choose a full sun site with moist to average soil.",
       "Space 24 inches apart; plants reach 3-5 feet tall."
+    ],
+    "detail_photos": [
+      "sweet-black-eyed-susan-1.jpg",
+      "sweet-black-eyed-susan-2.jpeg",
+      "sweet-black-eyed-susan-3.jpeg",
+      "sweet-black-eyed-susan-4.jpg",
+      "sweet-black-eyed-susan-5.jpg"
     ]
   },
   {
@@ -10884,7 +11226,6 @@
     ],
     "cautions": [],
     "notes": "A dominant tallgrass prairie species forming upright clumps topped by airy, pink-tinged flower panicles, providing essential habitat for ground-nesting birds and native bees.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -10938,6 +11279,13 @@
       "Sow seed in spring at soil surface; firm soil for contact.",
       "Plant in full sun; tolerates wide range of soils and moisture.",
       "Cut back to 6 inches in late winter before new growth emerges."
+    ],
+    "detail_photos": [
+      "switch-grass-1.jpg",
+      "switch-grass-2.jpg",
+      "switch-grass-3.jpg",
+      "switch-grass-4.jpg",
+      "switch-grass-5.jpg"
     ]
   },
   {
@@ -11036,7 +11384,6 @@
     ],
     "cautions": [],
     "notes": "First year forms rosette, flowers second year then dies. Self-seeds.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -11086,6 +11433,13 @@
       "Sow seed in fall in part shade with moist, rich soil.",
       "Space 12–18 inches apart; biennial that self-sows freely.",
       "Thrives along stream banks and woodland edges."
+    ],
+    "detail_photos": [
+      "tall-bellflower-1.jpg",
+      "tall-bellflower-2.jpg",
+      "tall-bellflower-3.jpg",
+      "tall-bellflower-4.jpg",
+      "tall-bellflower-5.jpg"
     ]
   },
   {
@@ -11250,6 +11604,13 @@
       "Plant plugs in part shade in rich, well-drained loam.",
       "Space 18 inches apart; provide support for tall stems.",
       "Caution: all parts are toxic to humans and livestock."
+    ],
+    "detail_photos": [
+      "tall-larkspur-1.jpg",
+      "tall-larkspur-2.jpg",
+      "tall-larkspur-3.jpg",
+      "tall-larkspur-4.jpg",
+      "tall-larkspur-5.jpg"
     ]
   },
   {
@@ -11270,14 +11631,12 @@
     "selling_points": [
       "Winter Interest",
       "Shade Tolerant",
-      "Deer Resistant",
-      "Drought Tolerant"
+      "Deer Resistant"
     ],
     "cautions": [
       "Toxic to Humans"
     ],
     "notes": "A woodland-edge perennial with elegant white flowers and ornamental thimble-shaped seed heads that become fluffy cotton-like puffs in fall.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -11331,6 +11690,13 @@
       "Plant in part shade in dry to medium woodland soil.",
       "Space 12–18 inches apart; sow seed in fall for stratification.",
       "Thrives at woodland edges; tolerates some drought."
+    ],
+    "detail_photos": [
+      "tall-thimbleweed-1.jpeg",
+      "tall-thimbleweed-2.jpeg",
+      "tall-thimbleweed-3.jpeg",
+      "tall-thimbleweed-4.jpeg",
+      "tall-thimbleweed-5.jpeg"
     ]
   },
   {
@@ -11351,14 +11717,12 @@
     "selling_points": [
       "Drought Tolerant",
       "Winter Interest",
-      "Deer Resistant",
-      "Easy to Grow"
+      "Deer Resistant"
     ],
     "cautions": [
       "Toxic to Humans"
     ],
     "notes": "A prairie wildflower with small greenish-white flowers that develop into distinctive elongated, thimble-shaped seed heads prized for winter arrangements.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -11412,6 +11776,13 @@
       "Plant in full sun in dry to medium, well-drained soil.",
       "Space 12–18 inches apart; direct sow seed in fall.",
       "Tolerates poor soil and drought once established."
+    ],
+    "detail_photos": [
+      "thimbleweed-1.jpg",
+      "thimbleweed-2.jpg",
+      "thimbleweed-3.jpeg",
+      "thimbleweed-4.jpeg",
+      "thimbleweed-5.jpg"
     ]
   },
   {
@@ -11440,7 +11811,6 @@
       "Spreads by Seed"
     ],
     "notes": "Host plant for Clematis Clearwing moth; fluffy seed heads in fall",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x1FAB0;",
@@ -11512,14 +11882,12 @@
     "selling_points": [
       "Shade Tolerant",
       "Ground Cover",
-      "Easy to Grow",
-      "Pollinator Magnet"
+      "Easy to Grow"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "A shade-loving woodland perennial with distinctive watermark-blotched leaves and clusters of tiny white-to-lavender bell-shaped flowers held above the foliage.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "💧",
@@ -11573,6 +11941,13 @@
       "Plant in rich, moist woodland soil in part to full shade.",
       "Seed in fall for natural cold stratification over winter.",
       "Allow to naturalize; forms attractive ground cover colonies."
+    ],
+    "detail_photos": [
+      "virginia-waterleaf-1.jpeg",
+      "virginia-waterleaf-2.jpg",
+      "virginia-waterleaf-3.jpg",
+      "virginia-waterleaf-4.jpg",
+      "virginia-waterleaf-5.jpg"
     ]
   },
   {
@@ -11655,7 +12030,7 @@
     ],
     "detail_photos": [
       "turtlehead-1.jpg",
-      "turtlehead-2.jpeg",
+      "turtlehead-2.jpg",
       "turtlehead-3.jpg",
       "turtlehead-4.jpg",
       "turtlehead-5.jpg"
@@ -11680,14 +12055,12 @@
     "selling_points": [
       "Deer Resistant",
       "Drought Tolerant",
-      "Caterpillar Host",
-      "Long Blooming"
+      "Caterpillar Host"
     ],
     "cautions": [
       "Toxic to Humans"
     ],
     "notes": "A long-lived, mound-forming perennial with elegant spikes of white pea-like flowers and blue-gray foliage that thrives even in heavy clay soils.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "💧",
@@ -11741,6 +12114,13 @@
       "Plant in full sun in average, well-drained soil.",
       "Space 3 feet apart; develops a deep taproot over time.",
       "Scarify or nick seed coat before sowing for best germination."
+    ],
+    "detail_photos": [
+      "white-wild-indigo-1.jpg",
+      "white-wild-indigo-2.jpg",
+      "white-wild-indigo-3.jpg",
+      "white-wild-indigo-4.jpeg",
+      "white-wild-indigo-5.jpg"
     ]
   },
   {
@@ -11902,9 +12282,8 @@
       "wild-bergamot-2.jpg",
       "wild-bergamot-3.jpg",
       "wild-bergamot-4.jpg",
-      "wild-bergamot-5.jpg"
-    ],
-    "facts": []
+      "wild-bergamot-5.jpeg"
+    ]
   },
   {
     "id": "wild-blue-phlox",
@@ -12056,8 +12435,7 @@
       "wild-geranium-3.jpeg",
       "wild-geranium-4.jpeg",
       "wild-geranium-5.jpg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "wild-ginger",
@@ -12080,7 +12458,6 @@
     ],
     "cautions": [],
     "notes": "Pollinated by flies; host plant for Pipevine Swallowtail (Battus philenor)",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x1F98B;",
@@ -12163,7 +12540,6 @@
       "Deep Roots"
     ],
     "notes": "Host plant for endangered Karner Blue butterfly; nitrogen fixer",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x1F98B;",
@@ -12241,7 +12617,6 @@
     ],
     "cautions": [],
     "notes": "A compact, drought-tolerant perennial with lavender petunia-like flowers that bloom prolifically throughout the hottest months of summer.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -12295,6 +12670,13 @@
       "Plant in full sun to light shade in dry soil.",
       "Space 12 inches apart; tolerates poor, rocky ground.",
       "Water sparingly once established; very drought tolerant."
+    ],
+    "detail_photos": [
+      "wild-petunia-1.jpeg",
+      "wild-petunia-2.jpeg",
+      "wild-petunia-3.jpeg",
+      "wild-petunia-4.jpeg",
+      "wild-petunia-5.jpg"
     ]
   },
   {
@@ -12320,7 +12702,6 @@
     ],
     "cautions": [],
     "notes": "A sturdy prairie perennial with dense, flat-topped clusters of white cauliflower-like flowers that attract a wide diversity of beneficial insects over a long bloom season.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🌿",
@@ -12374,6 +12755,13 @@
       "Plant plugs in full sun in dry to medium well-drained soil.",
       "Space 18 inches apart; deep taproot makes it very drought-tolerant.",
       "Leave spent flower heads for winter interest and self-seeding."
+    ],
+    "detail_photos": [
+      "wild-quinine-1.jpg",
+      "wild-quinine-2.jpg",
+      "wild-quinine-3.jpg",
+      "wild-quinine-4.jpeg",
+      "wild-quinine-5.jpeg"
     ]
   },
   {
@@ -12492,7 +12880,6 @@
     ],
     "cautions": [],
     "notes": "A stately legume with elegant compound leaves and bright yellow flower clusters that give way to long dark seed pods beloved by wild turkeys.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🦋",
@@ -12546,6 +12933,13 @@
       "Scarify or soak seeds overnight before spring planting.",
       "Plant in full sun in moist, well-drained soil.",
       "Space 3 feet apart; plants grow 4-6 feet tall."
+    ],
+    "detail_photos": [
+      "wild-senna-1.jpeg",
+      "wild-senna-2.jpeg",
+      "wild-senna-3.jpg",
+      "wild-senna-4.jpg",
+      "wild-senna-5.jpg"
     ]
   },
   {
@@ -12630,6 +13024,13 @@
       "Plant plugs in wet to moist soil in full sun locations.",
       "Space 12-18 inches apart in rain gardens or streamside plantings.",
       "Note: this is native, not invasive purple loosestrife (L. salicaria)."
+    ],
+    "detail_photos": [
+      "winged-loosestrife-1.jpg",
+      "winged-loosestrife-2.jpg",
+      "winged-loosestrife-3.jpeg",
+      "winged-loosestrife-4.jpeg",
+      "winged-loosestrife-5.jpeg"
     ]
   },
   {
@@ -12650,8 +13051,7 @@
     "selling_points": [
       "Wildlife Food",
       "Shade Tolerant",
-      "Winter Interest",
-      "Deer Resistant"
+      "Winter Interest"
     ],
     "cautions": [
       "Needs Male & Female"
@@ -12708,8 +13108,7 @@
       "winterberry-3.jpg",
       "winterberry-4.jpg",
       "winterberry-5.jpg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "witch-hazel",
@@ -12732,7 +13131,6 @@
     ],
     "cautions": [],
     "notes": "One of few plants blooming in late fall; pollinated by owlet moths active in cold weather",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x1F319;",
@@ -12807,7 +13205,6 @@
     ],
     "cautions": [],
     "notes": "A charming early-spring perennial with fern-like foliage and dense whorls of yellow to reddish-purple hooded flowers, important for emerging queen bumblebees.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "💧",
@@ -12861,6 +13258,13 @@
       "Sow fresh seed in fall near host plant roots; hemiparasitic.",
       "Plant in dry to mesic soil with sun to light shade.",
       "Must grow near other plants; taps neighboring roots for nutrients."
+    ],
+    "detail_photos": [
+      "wood-betony-1.jpeg",
+      "wood-betony-2.jpeg",
+      "wood-betony-3.jpeg",
+      "wood-betony-4.jpeg",
+      "wood-betony-5.jpeg"
     ]
   },
   {
@@ -12883,14 +13287,12 @@
     "selling_points": [
       "Deer Resistant",
       "Pollinator Magnet",
-      "Shade Tolerant",
-      "Self-Seeding"
+      "Shade Tolerant"
     ],
     "cautions": [
       "Spreads by Root"
     ],
     "notes": "Spreads by rhizomes to form colonies",
-    "facts": [],
     "fun_facts": [
       {
         "icon": "&#x1F426;",
@@ -12963,14 +13365,12 @@
     "selling_points": [
       "Drought Tolerant",
       "Pollinator Magnet",
-      "Easy to Grow",
-      "Long Blooming"
+      "Easy to Grow"
     ],
     "cautions": [
       "Spreads by Seed"
     ],
     "notes": "A tall prairie perennial with distinctive drooping yellow petals and a raised grayish-brown cone that sways gracefully in the breeze.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -13024,6 +13424,13 @@
       "Sow seed in fall on soil surface; needs light and cold.",
       "Full sun in average to dry well-drained soil; tolerates clay.",
       "Leave spent cones standing through winter for birds and reseeding."
+    ],
+    "detail_photos": [
+      "yellow-coneflower-1.jpg",
+      "yellow-coneflower-2.jpeg",
+      "yellow-coneflower-3.jpeg",
+      "yellow-coneflower-4.jpeg",
+      "yellow-coneflower-5.jpg"
     ]
   },
   {
@@ -13092,8 +13499,7 @@
       "yellow-star-grass-3.jpeg",
       "yellow-star-grass-4.jpeg",
       "yellow-star-grass-5.jpeg"
-    ],
-    "facts": []
+    ]
   },
   {
     "id": "zig-zag-goldenrod",
@@ -13114,15 +13520,12 @@
     "selling_points": [
       "Shade Tolerant",
       "Pollinator Magnet",
-      "Late Bloomer",
-      "Easy to Grow"
+      "Late Bloomer"
     ],
     "cautions": [
-      "Spreads by Root",
-      "Spreads by Seed"
+      "Spreads by Root"
     ],
     "notes": "A woodland goldenrod with distinctively zigzagging stems and clusters of bright yellow flowers in the leaf axils, perfect for shady gardens.",
-    "facts": [],
     "fun_facts": [
       {
         "emoji": "🐦",
@@ -13176,6 +13579,13 @@
       "Plant in part to full shade in rich woodland soil.",
       "Space 18 inches apart; ideal for shaded garden edges.",
       "Spreads slowly by rhizomes; minimal maintenance needed."
+    ],
+    "detail_photos": [
+      "zig-zag-goldenrod-1.jpg",
+      "zig-zag-goldenrod-2.jpg",
+      "zig-zag-goldenrod-3.jpg",
+      "zig-zag-goldenrod-4.jpeg",
+      "zig-zag-goldenrod-5.jpg"
     ]
   }
 ]

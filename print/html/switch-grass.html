@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Switch Grass — Wild Ones Plant Card</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Libre+Baskerville:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap');
+  :root {
+    --sage:#6b8f71;--sage-light:#e9f0ea;--cream:#f5f0e6;--cream-light:#faf8f3;
+    --warm-gray:#8a8478;--text:#2a2a2a;--text-light:#666;--border:#e0dbd0;
+    --badge-bg:#f4f1eb;--card-w:6in;--card-h:4in;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#d6d1c8;font-family:'DM Sans',system-ui,sans-serif;
+    min-height:100vh;display:flex;flex-direction:column;align-items:center;
+    padding:40px 20px 60px;color:var(--text)}
+
+  .stamp-outer{position:relative;padding:11px;background:var(--cream);
+    -webkit-mask-image:
+      radial-gradient(circle at 5.5px 0,transparent 4px,black 4.5px),
+      radial-gradient(circle at 5.5px 100%,transparent 4px,black 4.5px),
+      radial-gradient(circle at 0 5.5px,transparent 4px,black 4.5px),
+      radial-gradient(circle at 100% 5.5px,transparent 4px,black 4.5px);
+    -webkit-mask-size:11px 100%,11px 100%,100% 11px,100% 11px;
+    -webkit-mask-position:top,bottom,left,right;
+    -webkit-mask-repeat:repeat-x,repeat-x,repeat-y,repeat-y;
+    -webkit-mask-composite:source-in;mask-composite:intersect;
+    box-shadow:0 8px 40px rgba(0,0,0,.18),0 2px 8px rgba(0,0,0,.08);user-select:none}
+
+  .card{position:relative;width:var(--card-w);height:var(--card-h);
+    background:var(--cream-light);display:grid;grid-template-rows:auto 1fr auto;
+    overflow:hidden;border:1px solid var(--border)}
+
+  .card-header{padding:7px 12px 6px 15px;display:flex;align-items:center;
+    justify-content:space-between;gap:8px;border-bottom:1px solid var(--border);background:#3d5a40}
+  .header-left{display:flex;align-items:baseline;gap:10px}
+  .name-block{display:flex;flex-direction:column}
+  .common-name{font-family:'Oswald',sans-serif;font-weight:700;font-size:21px;
+    letter-spacing:1px;text-transform:uppercase;line-height:1.05;color:#fff}
+  .scientific-name{font-family:'Libre Baskerville',Georgia,serif;font-style:italic;
+    font-size:9.5px;margin-top:1px;color:rgba(255,255,255,.75)}
+  .header-right{display:flex;align-items:center;gap:4px;flex-shrink:0}
+  .icon-slot{width:30px;height:30px;border-radius:50%;border:1.5px solid rgba(255,255,255,.95);
+    display:flex;align-items:center;justify-content:center;
+    background:rgba(255,255,255,.98);box-shadow:0 1px 0 rgba(0,0,0,.18)}
+  .icon-slot .icon-img{width:24px;height:24px;object-fit:contain;image-rendering:-webkit-optimize-contrast}
+  .native-badge{flex-shrink:0;width:38px;height:38px;margin-left:2px;
+    display:flex;align-items:center;justify-content:center}
+  .native-badge img{width:38px;height:38px;object-fit:contain;display:block}
+
+  .card-body{display:grid;grid-template-columns:42% 1fr;gap:14px;padding:10px 16px;min-height:0}
+  .photo-area{border-radius:5px;overflow:hidden;height:100%;width:100%;background:#fff;
+    display:flex;align-items:center;justify-content:center}
+  .photo-area img{width:100%;height:100%;object-fit:cover;object-position:center;display:block}
+  .photo-placeholder{display:flex;flex-direction:column;align-items:center;justify-content:center;
+    width:100%;height:100%;background:#e8e4dc;color:#999;font-size:11px;text-align:center;gap:4px}
+  .photo-placeholder .ph-name{font-family:'Oswald',sans-serif;font-size:14px;color:#777;
+    text-transform:uppercase;letter-spacing:1px}
+
+  .info-panel{display:flex;flex-direction:column;justify-content:space-between}
+  .badge-list{display:flex;flex-direction:column;gap:5px}
+  .sp-badge{display:flex;align-items:center;gap:7px;background:var(--badge-bg);
+    border-radius:6px;padding:6px 8px;border:1px solid rgba(0,0,0,.04)}
+  .sp-badge .sp-icon{width:24px;height:24px;border-radius:5px;
+    display:flex;align-items:center;justify-content:center;flex-shrink:0}
+  .sp-icon .icon-img{width:24px;height:24px;object-fit:contain;image-rendering:-webkit-optimize-contrast}
+  .sp-text{display:flex;flex-direction:column}
+  .sp-text .sp-title{font-size:10px;font-weight:700;color:var(--text);line-height:1.15;letter-spacing:.2px}
+  .sp-text .sp-sub{font-size:7.5px;font-weight:400;color:var(--text-light);line-height:1.2}
+
+  .branding-row{display:flex;align-items:center;margin-top:auto;padding-top:6px;
+    border-top:1px solid var(--border);gap:12px}
+  .scan-section{display:flex;flex-direction:column;align-items:flex-end;gap:2px;flex:1}
+  .brand-cta{text-align:center}
+  .brand-cta-line{font-size:7px;font-weight:400;color:var(--warm-gray);line-height:1.3;display:block}
+  .brand-cta-line.main{font-weight:500;font-size:7.5px;letter-spacing:.3px}
+  .brand-divider{width:0;height:36px;border-left:1px dashed var(--border);flex-shrink:0}
+  .scan-panel{display:flex;align-items:center;gap:4px;flex-shrink:0}
+  .nfc-icon{height:38px;width:auto;object-fit:contain;opacity:.7}
+  .scan-label{font-size:7.5px;font-weight:700;color:#3d5a40;text-transform:uppercase;letter-spacing:.8px}
+  .scan-or{display:flex;flex-direction:column;align-items:center;gap:2px;padding:0 3px}
+  .scan-or-line{width:1px;height:10px;background:rgba(0,0,0,.12)}
+  .scan-or span{font-size:6.5px;color:var(--warm-gray);font-style:italic}
+  .scan-frame{position:relative;width:42px;height:42px;padding:3px;flex-shrink:0}
+  .corner{display:none}
+  .scan-frame .qr-img{width:100%;height:100%;border-radius:1px;display:block}
+  .logo-wrap{position:relative;display:flex;flex-direction:column;align-items:center;
+    justify-content:center;flex-shrink:0}
+  .logo-img{height:46px;width:auto;object-fit:contain}
+  .branding-row.no-logo{justify-content:center}
+  .branding-row.no-logo .scan-section{align-items:center}
+
+  .attr-strip{position:relative;background:#f0ece4;border-top:1px solid var(--border);
+    padding:6px 15px 8px;display:flex;align-items:center;justify-content:space-around}
+  .attr-item{display:flex;flex-direction:column;align-items:center;gap:1px;flex:1}
+  .attr-item .icon-img{width:36px;height:36px;object-fit:contain;image-rendering:-webkit-optimize-contrast}
+  .attr-item .attr-value{font-size:8.5px;font-weight:500;color:var(--text);text-align:center;line-height:1.2}
+  .attr-divider{width:1px;height:26px;background:var(--border);flex-shrink:0}
+</style>
+</head>
+<body>
+
+<div class="stamp-outer">
+  <div class="card">
+
+    <!-- Header -->
+    <div class="card-header">
+      <div class="header-left">
+        <div class="name-block">
+          <span class="common-name">Switch Grass</span>
+          <span class="scientific-name">Panicum virgatum</span>
+        </div>
+      </div>
+      <div class="header-right">
+        <div class="icon-slot" title="Butterflies">
+          <img class="icon-img" alt="Butterflies" src="../../assets/icons/pollinator/poll_butterfly.png">
+        </div>
+        <div class="native-badge" title="New York Native">
+          <img alt="New York Native" src="../../assets/icons/badge/badge_native_ny.png">
+        </div>
+      </div>
+    </div>
+
+    <!-- Body -->
+    <div class="card-body">
+      <div class="photo-area">
+        <img src="../../assets/photos/switch-grass.jpg" alt="Switch Grass">
+      </div>
+
+      <div class="info-panel">
+        <div>
+          <div class="badge-list">
+            <div class="sp-badge">
+              <div class="sp-icon" style="background:#fff3e0">
+                <img class="icon-img" alt="Wildlife Food" src="../../assets/icons/selling-point/sp_wildlife_food.png">
+              </div>
+              <div class="sp-text">
+                <span class="sp-title">Wildlife Food</span>
+                <span class="sp-sub">Berries & seeds feed birds and wildlife</span>
+              </div>
+            </div>
+            <div class="sp-badge">
+              <div class="sp-icon" style="background:#d7ccc8">
+                <img class="icon-img" alt="Erosion Control" src="../../assets/icons/selling-point/sp_erosion_control.png">
+              </div>
+              <div class="sp-text">
+                <span class="sp-title">Erosion Control</span>
+                <span class="sp-sub">Deep roots stabilize slopes & banks</span>
+              </div>
+            </div>
+            <div class="sp-badge">
+              <div class="sp-icon" style="background:#fff3e0">
+                <img class="icon-img" alt="Fall Color" src="../../assets/icons/selling-point/sp_fall_color.png">
+              </div>
+              <div class="sp-text">
+                <span class="sp-title">Fall Color</span>
+                <span class="sp-sub">Showy autumn foliage adds seasonal color</span>
+              </div>
+            </div>
+            <div class="sp-badge">
+              <div class="sp-icon" style="background:#dcedc8">
+                <img class="icon-img" alt="Caterpillar Host" src="../../assets/icons/selling-point/sp_caterpillar_host.png">
+              </div>
+              <div class="sp-text">
+                <span class="sp-title">Caterpillar Host</span>
+                <span class="sp-sub">Feeds caterpillars of native moths & butterflies</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="branding-row">
+          <div class="scan-section">
+            <div class="scan-panel">
+              <img class="nfc-icon" src="../../assets/icons/nfc-tap.png" alt="Tap NFC">
+              <span class="scan-label">Tap</span>
+              <div class="scan-or">
+                <div class="scan-or-line"></div>
+                <span>or</span>
+                <div class="scan-or-line"></div>
+              </div>
+              <div class="scan-frame">
+                <img class="qr-img" src="data:image/png;base64,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" alt="QR code">
+              </div>
+              <span class="scan-label">Scan</span>
+            </div>
+            <div class="brand-cta">
+              <span class="brand-cta-line main">Plant guide &middot; wildlife value &middot; companions</span>
+            </div>
+          </div>
+          <div class="brand-divider"></div>
+          <div class="logo-wrap">
+            <img class="logo-img" alt="Wild Ones Capital Region NY" src="../../assets/icons/LOGO.png">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom strip -->
+    <div class="attr-strip">
+      <div class="attr-item">
+        <img class="icon-img" alt="Light" src="../../assets/icons/attribute/attr_sun_part.png">
+        <span class="attr-value">Full Sun</span>
+      </div>
+      <div class="attr-divider"></div>
+      <div class="attr-item">
+        <img class="icon-img" alt="Water" src="../../assets/icons/attribute/attr_water_med.png">
+        <span class="attr-value">Medium</span>
+      </div>
+      <div class="attr-divider"></div>
+      <div class="attr-item">
+        <img class="icon-img" alt="Soil" src="../../assets/icons/attribute/attr_soil_loam.png">
+        <span class="attr-value">Any</span>
+      </div>
+      <div class="attr-divider"></div>
+      <div class="attr-item">
+        <img class="icon-img" alt="Size" src="../../assets/icons/attribute/attr_size.png">
+        <span class="attr-value">3-6'</span>
+      </div>
+      <div class="attr-divider"></div>
+      <div class="attr-item">
+        <img class="icon-img" alt="Bloom" src="../../assets/icons/attribute/attr_bloom.png">
+        <span class="attr-value">Pink to Red<br>Jul - Sep</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>

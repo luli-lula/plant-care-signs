@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>American Spikenard — Wild Ones Plant Card</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Libre+Baskerville:ital@0;1&family=DM+Sans:wght@400;500;600&display=swap');
+  :root {
+    --sage:#6b8f71;--sage-light:#e9f0ea;--cream:#f5f0e6;--cream-light:#faf8f3;
+    --warm-gray:#8a8478;--text:#2a2a2a;--text-light:#666;--border:#e0dbd0;
+    --badge-bg:#f4f1eb;--card-w:6in;--card-h:4in;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#d6d1c8;font-family:'DM Sans',system-ui,sans-serif;
+    min-height:100vh;display:flex;flex-direction:column;align-items:center;
+    padding:40px 20px 60px;color:var(--text)}
+
+  .stamp-outer{position:relative;padding:11px;background:var(--cream);
+    -webkit-mask-image:
+      radial-gradient(circle at 5.5px 0,transparent 4px,black 4.5px),
+      radial-gradient(circle at 5.5px 100%,transparent 4px,black 4.5px),
+      radial-gradient(circle at 0 5.5px,transparent 4px,black 4.5px),
+      radial-gradient(circle at 100% 5.5px,transparent 4px,black 4.5px);
+    -webkit-mask-size:11px 100%,11px 100%,100% 11px,100% 11px;
+    -webkit-mask-position:top,bottom,left,right;
+    -webkit-mask-repeat:repeat-x,repeat-x,repeat-y,repeat-y;
+    -webkit-mask-composite:source-in;mask-composite:intersect;
+    box-shadow:0 8px 40px rgba(0,0,0,.18),0 2px 8px rgba(0,0,0,.08);user-select:none}
+
+  .card{position:relative;width:var(--card-w);height:var(--card-h);
+    background:var(--cream-light);display:grid;grid-template-rows:auto 1fr auto;
+    overflow:hidden;border:1px solid var(--border)}
+
+  .card-header{padding:7px 12px 6px 15px;display:flex;align-items:center;
+    justify-content:space-between;gap:8px;border-bottom:1px solid var(--border);background:#3d5a40}
+  .header-left{display:flex;align-items:baseline;gap:10px}
+  .name-block{display:flex;flex-direction:column}
+  .common-name{font-family:'Oswald',sans-serif;font-weight:700;font-size:21px;
+    letter-spacing:1px;text-transform:uppercase;line-height:1.05;color:#fff}
+  .scientific-name{font-family:'Libre Baskerville',Georgia,serif;font-style:italic;
+    font-size:9.5px;margin-top:1px;color:rgba(255,255,255,.75)}
+  .header-right{display:flex;align-items:center;gap:4px;flex-shrink:0}
+  .icon-slot{width:30px;height:30px;border-radius:50%;border:1.5px solid rgba(255,255,255,.95);
+    display:flex;align-items:center;justify-content:center;
+    background:rgba(255,255,255,.98);box-shadow:0 1px 0 rgba(0,0,0,.18)}
+  .icon-slot .icon-img{width:24px;height:24px;object-fit:contain;image-rendering:-webkit-optimize-contrast}
+  .native-badge{flex-shrink:0;width:38px;height:38px;margin-left:2px;
+    display:flex;align-items:center;justify-content:center}
+  .native-badge img{width:38px;height:38px;object-fit:contain;display:block}
+
+  .card-body{display:grid;grid-template-columns:42% 1fr;gap:14px;padding:10px 16px;min-height:0}
+  .photo-area{border-radius:5px;overflow:hidden;height:100%;width:100%;background:#fff;
+    display:flex;align-items:center;justify-content:center}
+  .photo-area img{width:100%;height:100%;object-fit:cover;object-position:center;display:block}
+  .photo-placeholder{display:flex;flex-direction:column;align-items:center;justify-content:center;
+    width:100%;height:100%;background:#e8e4dc;color:#999;font-size:11px;text-align:center;gap:4px}
+  .photo-placeholder .ph-name{font-family:'Oswald',sans-serif;font-size:14px;color:#777;
+    text-transform:uppercase;letter-spacing:1px}
+
+  .info-panel{display:flex;flex-direction:column;justify-content:space-between}
+  .badge-list{display:flex;flex-direction:column;gap:5px}
+  .sp-badge{display:flex;align-items:center;gap:7px;background:var(--badge-bg);
+    border-radius:6px;padding:6px 8px;border:1px solid rgba(0,0,0,.04)}
+  .sp-badge .sp-icon{width:24px;height:24px;border-radius:5px;
+    display:flex;align-items:center;justify-content:center;flex-shrink:0}
+  .sp-icon .icon-img{width:24px;height:24px;object-fit:contain;image-rendering:-webkit-optimize-contrast}
+  .sp-text{display:flex;flex-direction:column}
+  .sp-text .sp-title{font-size:10px;font-weight:700;color:var(--text);line-height:1.15;letter-spacing:.2px}
+  .sp-text .sp-sub{font-size:7.5px;font-weight:400;color:var(--text-light);line-height:1.2}
+
+  .branding-row{display:flex;align-items:center;margin-top:auto;padding-top:6px;
+    border-top:1px solid var(--border);gap:12px}
+  .scan-section{display:flex;flex-direction:column;align-items:flex-end;gap:2px;flex:1}
+  .brand-cta{text-align:center}
+  .brand-cta-line{font-size:7px;font-weight:400;color:var(--warm-gray);line-height:1.3;display:block}
+  .brand-cta-line.main{font-weight:500;font-size:7.5px;letter-spacing:.3px}
+  .brand-divider{width:0;height:36px;border-left:1px dashed var(--border);flex-shrink:0}
+  .scan-panel{display:flex;align-items:center;gap:4px;flex-shrink:0}
+  .nfc-icon{height:38px;width:auto;object-fit:contain;opacity:.7}
+  .scan-label{font-size:7.5px;font-weight:700;color:#3d5a40;text-transform:uppercase;letter-spacing:.8px}
+  .scan-or{display:flex;flex-direction:column;align-items:center;gap:2px;padding:0 3px}
+  .scan-or-line{width:1px;height:10px;background:rgba(0,0,0,.12)}
+  .scan-or span{font-size:6.5px;color:var(--warm-gray);font-style:italic}
+  .scan-frame{position:relative;width:42px;height:42px;padding:3px;flex-shrink:0}
+  .corner{display:none}
+  .scan-frame .qr-img{width:100%;height:100%;border-radius:1px;display:block}
+  .logo-wrap{position:relative;display:flex;flex-direction:column;align-items:center;
+    justify-content:center;flex-shrink:0}
+  .logo-img{height:46px;width:auto;object-fit:contain}
+  .branding-row.no-logo{justify-content:center}
+  .branding-row.no-logo .scan-section{align-items:center}
+
+  .attr-strip{position:relative;background:#f0ece4;border-top:1px solid var(--border);
+    padding:6px 15px 8px;display:flex;align-items:center;justify-content:space-around}
+  .attr-item{display:flex;flex-direction:column;align-items:center;gap:1px;flex:1}
+  .attr-item .icon-img{width:36px;height:36px;object-fit:contain;image-rendering:-webkit-optimize-contrast}
+  .attr-item .attr-value{font-size:8.5px;font-weight:500;color:var(--text);text-align:center;line-height:1.2}
+  .attr-divider{width:1px;height:26px;background:var(--border);flex-shrink:0}
+</style>
+</head>
+<body>
+
+<div class="stamp-outer">
+  <div class="card">
+
+    <!-- Header -->
+    <div class="card-header">
+      <div class="header-left">
+        <div class="name-block">
+          <span class="common-name">American Spikenard</span>
+          <span class="scientific-name">Aralia racemosa</span>
+        </div>
+      </div>
+      <div class="header-right">
+        <div class="icon-slot" title="Bees">
+          <img class="icon-img" alt="Bees" src="../../assets/icons/pollinator/poll_bee.png">
+        </div>
+        <div class="native-badge" title="New York Native">
+          <img alt="New York Native" src="../../assets/icons/badge/badge_native_ny.png">
+        </div>
+      </div>
+    </div>
+
+    <!-- Body -->
+    <div class="card-body">
+      <div class="photo-area">
+        <img src="../../assets/photos/american-spikenard.jpg" alt="American Spikenard">
+      </div>
+
+      <div class="info-panel">
+        <div>
+          <div class="badge-list">
+            <div class="sp-badge">
+              <div class="sp-icon" style="background:#e8f5e9">
+                <img class="icon-img" alt="Shade Tolerant" src="../../assets/icons/selling-point/sp_shadegarden.png">
+              </div>
+              <div class="sp-text">
+                <span class="sp-title">Shade Tolerant</span>
+                <span class="sp-sub">Grows well in partial to full shade</span>
+              </div>
+            </div>
+            <div class="sp-badge">
+              <div class="sp-icon" style="background:#fff3e0">
+                <img class="icon-img" alt="Wildlife Food" src="../../assets/icons/selling-point/sp_wildlife_food.png">
+              </div>
+              <div class="sp-text">
+                <span class="sp-title">Wildlife Food</span>
+                <span class="sp-sub">Berries & seeds feed birds and wildlife</span>
+              </div>
+            </div>
+            <div class="sp-badge">
+              <div class="sp-icon" style="background:#fff3e0">
+                <img class="icon-img" alt="Fall Color" src="../../assets/icons/selling-point/sp_fall_color.png">
+              </div>
+              <div class="sp-text">
+                <span class="sp-title">Fall Color</span>
+                <span class="sp-sub">Showy autumn foliage adds seasonal color</span>
+              </div>
+            </div>
+            <div class="sp-badge">
+              <div class="sp-icon" style="background:#e8eaf6">
+                <img class="icon-img" alt="Did You Know" src="../../assets/icons/ui/ui_didyouknow.png">
+              </div>
+              <div class="sp-text">
+                <span class="sp-title">American Spikenard</span>
+                <span class="sp-sub">Creates a bold, tropical look in woodland gardens with its huge compound leaves.</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="branding-row">
+          <div class="scan-section">
+            <div class="scan-panel">
+              <img class="nfc-icon" src="../../assets/icons/nfc-tap.png" alt="Tap NFC">
+              <span class="scan-label">Tap</span>
+              <div class="scan-or">
+                <div class="scan-or-line"></div>
+                <span>or</span>
+                <div class="scan-or-line"></div>
+              </div>
+              <div class="scan-frame">
+                <img class="qr-img" src="data:image/png;base64,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" alt="QR code">
+              </div>
+              <span class="scan-label">Scan</span>
+            </div>
+            <div class="brand-cta">
+              <span class="brand-cta-line main">Plant guide &middot; wildlife value &middot; companions</span>
+            </div>
+          </div>
+          <div class="brand-divider"></div>
+          <div class="logo-wrap">
+            <img class="logo-img" alt="Wild Ones Capital Region NY" src="../../assets/icons/LOGO.png">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom strip -->
+    <div class="attr-strip">
+      <div class="attr-item">
+        <img class="icon-img" alt="Light" src="../../assets/icons/attribute/attr_sun_part.png">
+        <span class="attr-value">Sun – Part Shade</span>
+      </div>
+      <div class="attr-divider"></div>
+      <div class="attr-item">
+        <img class="icon-img" alt="Water" src="../../assets/icons/attribute/attr_water_med.png">
+        <span class="attr-value">Moist – Mesic</span>
+      </div>
+      <div class="attr-divider"></div>
+      <div class="attr-item">
+        <img class="icon-img" alt="Soil" src="../../assets/icons/attribute/attr_soil_loam.png">
+        <span class="attr-value">Loam</span>
+      </div>
+      <div class="attr-divider"></div>
+      <div class="attr-item">
+        <img class="icon-img" alt="Size" src="../../assets/icons/attribute/attr_size.png">
+        <span class="attr-value">3-5'</span>
+      </div>
+      <div class="attr-divider"></div>
+      <div class="attr-item">
+        <img class="icon-img" alt="Bloom" src="../../assets/icons/attribute/attr_bloom.png">
+        <span class="attr-value">White/Green<br>Jun - Aug</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>
